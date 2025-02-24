@@ -26,7 +26,7 @@ Now that you’ve reviewed the general expectations and background information, 
 
 The following options can be considered a sort of “choose your own adventure” with each area focused on a different stage of digital preservation. As Data Rescue events are set up to welcome all skills, each track has a core focus but includes various tasks that can be completed usually within an hour.
 
-#### [Track 1  (Advocacy & Education)](track-1-advocacy&education.md)
+#### [Track 1  (Advocacy & Education)](track-1-advocacy-education.md)
 
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes.
 
