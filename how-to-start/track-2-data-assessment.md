@@ -51,7 +51,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 🚁**Summary**: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.
 
-💁**Role:** Metadata Reporter
+💁**Role:** Metadata Cataloger
 
 🗂️**Workflow**
 
