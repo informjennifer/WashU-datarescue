@@ -34,7 +34,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 This track focuses on finding and evaluating valuable and relevant at-risk data. These tasks help others be able to complete more time intensive capturing tasks as they can use your “peer reviewed” assessment to prioritize data harvesting and preservation.
 
-#### [Track 3 (Data Capture)](track-3-technical.md)
+#### [Track 3 (Data Capture)](track-3-data-capture.md)
 
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track if they are able to dedicate more time or have previous experience in digital preservation and information management.
 
