@@ -1,4 +1,4 @@
-# 🎙️ Track 1 (Research & Advocacy)
+# 🎙️ Track 1 (Advocacy & Education)
 
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes.
 
