@@ -75,19 +75,3 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Repeat process for a new submission
 
 🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button (listed in above Tools Required) to notify the Internet Archive or the End of Term project, which has been preserving federal webpages since 2008. Once the URL to the web page has been submitted to Internet Archive, the EoT will automatically process the webpage for long term preservation into their repository.
-
-4. <mark style="background-color:purple;">Describe collected webpages/records</mark>&#x20;
-
-🚁Summary: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
-
-🗂️ Workflow&#x20;
-
-* Read [Dublin Core basic metadata manual](https://www.dublincore.org/specifications/dublin-core/usageguide/) to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)&#x20;
-* Navigate to the [**link to Data Tracking List**] sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
-* Select a row with an item that is marked as "Needs Metadata" (this info found in column K)&#x20;
-* Change row status to "In Progress - Metadata" for duration of your description work,
-* Fill-in descriptive text for your select row for all 5 metadata columns (these are columns O through U colored in teal blue)&#x20;
-* Use Data Tracking sheet for URL to find other information to create description&#x20;
-* When metadata has been entered, change status of row in column K to "Needs Checksum"
-
-🛠️ Skills Needed: Basic command of English for first layer of information with additional language skills used for translation of English metadata. Ability to distinguish between different types of information.
