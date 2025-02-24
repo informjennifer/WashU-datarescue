@@ -26,13 +26,16 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 **Breakdown of Task Sections**\
 🚁 _(helicopter emoji)_ gives summary of task\
 🗂️ _(index dividers)_ outlines specific steps needed to complete task\
-🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task
+🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task\
+💁 _(information desk person)_ details participant role
 
 ### TASKS BREAKDOWN
 
 #### <mark style="background-color:purple;">1. Set up monitoring API tracker to document changes to government websites</mark>
 
 🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many websites need to continually crawled to document track changes.
+
+💁**Role:** Web Crawler
 
 🗂️**Workflow**
 
@@ -51,6 +54,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
 
+💁**Role:** Web Archivist
+
 🗂️**Workflow**
 
 1. Identify a web file ready to   ready to be captured [**link to Data Tracking List**]
@@ -63,6 +68,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 #### <mark style="background-color:purple;">3. Harvest public datasets available online</mark>
 
 🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
+
+💁**Role:** Data Archivist
 
 🗂️**Workflow**
 
@@ -79,6 +86,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 #### <mark style="background-color:purple;">4. Create checksum for captured files</mark>
 
 🚁**Summary:** This helps short and long term preservation effort to verify the integrity (fixity) of stored files and datasets. Creating checksums or reviewing them helps detect transfer or creation errors or signs of tampering by external forces.
+
+💁**Role:** Digital Preservationist
 
 🗂️**Workflow**
 
