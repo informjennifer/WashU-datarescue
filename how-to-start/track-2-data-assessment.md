@@ -24,13 +24,16 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 **Breakdown of Task Sections**\
 🚁 _(helicopter emoji)_ gives summary of task\
 🗂️ _(index dividers)_ outlines specific steps needed to complete task\
-🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task
+🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task\
+💁 _(information desk person)_ details participant role
 
 ### SUGGESTED TASKS & INSTRUCTIONS
 
 #### 1. <mark style="background-color:purple;">Identify & suggest at-risk web pages</mark>
 
 🚁**Summary:** Volunteers will search through the web for web pages, single files, and other online information that may be considered at-risk data from sources like federal agencies, state and regional offices, or national or local environmental organizations and groups.
+
+💁**Role:** Browser
 
 🗂️**Workflow:**&#x20;
 
@@ -48,6 +51,8 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 🚁**Summary**: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.
 
+💁**Role:** Metadata Reporter
+
 🗂️**Workflow**
 
 * Read [dublin core basic manual ](https://www.dublincore.org/specifications/dublin-core/usageguide/)to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)
@@ -62,6 +67,8 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 #### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
 🚁**Summary:** Participants in this track will browse a specific set of suggested at-risk federal webpages to search for ones that need to be preserved.&#x20;
+
+💁**Role:** Data Assessor
 
 🗂️**Workflow:**&#x20;
 
