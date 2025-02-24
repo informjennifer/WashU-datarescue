@@ -33,7 +33,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🗂️**Workflow**
 
-1. Review the Digital Research Repository outreach template ([See example from Seattle Data Rescue](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing) via this link)
+1. Review the Digital Research Repository outreach template ([See example from WashU Data Rescue via this link](https://wustl.box.com/s/gm2h0nwxjdh3hejyh5whw7fa0p581u0e))
 2. Find a researcher (& contact information) that you believe is conducting research in an area of significance.
 3. Customize template with your recipient's basic info (name, their area of focus like Climate Science or Environmental changes, ideas for what to deposit, and how it might benefit the researcher and/or their audiences)
 4. Send/distribute outreach message to selected recipient.
