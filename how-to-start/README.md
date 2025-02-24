@@ -38,4 +38,4 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track if they are able to dedicate more time or have previous experience in digital preservation and information management.
 
-\
+
