@@ -31,26 +31,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 ### TASKS BREAKDOWN
 
-#### <mark style="background-color:purple;">1. Set up monitoring API tracker to document changes to government websites</mark>
-
-🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many websites need to continually crawled to document track changes.
-
-💁**Role:** Web Crawler
-
-🗂️**Workflow**
-
-1. Read or skim the following report of website monitoring by EDGI
-   1. Report Link: [https://envirodatagov.org/publication/changing-digital-climate/](https://envirodatagov.org/publication/changing-digital-climate/)&#x20;
-2. Download the a monitoring tool like:
-   1. HTTP API tracker [https://github.com/edgi-govdata-archiving/web-monitoring-db](https://github.com/edgi-govdata-archiving/web-monitoring-db)&#x20;
-   2. Comprehensive list of other tools here: [https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)&#x20;
-3. Identify website to track using [**link to Data Tracking List**])&#x20;
-4. Deploy tracker for selected website&#x20;
-5. Submit information about tracked website to [**link to the Data Tracking form**]
-
-**Skills Needed:** Advanced understanding of software deployment, APIs, and technical git repositories.&#x20;
-
-#### <mark style="background-color:purple;">2. Capture web files/data</mark>
+#### <mark style="background-color:purple;">1. Capture web files/data</mark>
 
 🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
 
@@ -65,7 +46,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
-#### <mark style="background-color:purple;">3. Harvest public datasets available online</mark>
+#### <mark style="background-color:purple;">2. Harvest public datasets available online</mark>
 
 🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
 
@@ -83,7 +64,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
-#### <mark style="background-color:purple;">4. Create checksum for captured files</mark>
+#### <mark style="background-color:purple;">3. Create checksum for captured files</mark>
 
 🚁**Summary:** This helps short and long term preservation effort to verify the integrity (fixity) of stored files and datasets. Creating checksums or reviewing them helps detect transfer or creation errors or signs of tampering by external forces.
 
@@ -105,3 +86,22 @@ This track focuses on the actual capture of at-risk data in a variety of formats
       * OR submit the URL of a downloadable folder via the exit tix [**link to Work Completion Form**]&#x20;
 
 🛠️**Skills Needed:** Best for those who have strong tech skills, attention to detail, and willingness to read the docs.
+
+#### <mark style="background-color:purple;">4. Set up monitoring API tracker to document changes to government websites</mark>
+
+🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many websites need to continually crawled to document track changes.
+
+💁**Role:** Web Crawler
+
+🗂️**Workflow**
+
+1. Read or skim the following report of website monitoring by EDGI
+   1. Report Link: [https://envirodatagov.org/publication/changing-digital-climate/](https://envirodatagov.org/publication/changing-digital-climate/)&#x20;
+2. Download the a monitoring tool like:
+   1. HTTP API tracker [https://github.com/edgi-govdata-archiving/web-monitoring-db](https://github.com/edgi-govdata-archiving/web-monitoring-db)&#x20;
+   2. Comprehensive list of other tools here: [https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)&#x20;
+3. Identify website to track using [**link to Data Tracking List**])&#x20;
+4. Deploy tracker for selected website&#x20;
+5. Submit information about tracked website to [**link to the Data Tracking form**]
+
+**Skills Needed:** Advanced understanding of software deployment, APIs, and technical git repositories.&#x20;
