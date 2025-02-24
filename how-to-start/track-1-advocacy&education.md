@@ -23,13 +23,16 @@ This track focuses on creating, revising, and sharing information about at-risk 
 **Breakdown of Task Sections**\
 🚁 _(helicopter emoji)_ gives summary of task\
 🗂️ _(index dividers)_ outlines specific steps needed to complete task\
-🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task
+🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task\
+💁 _(information desk person)_ details participant role
 
 ### **SUGGESTED TASKS & INSTRUCTIONS** &#x20;
 
 #### <mark style="background-color:purple;">1. Advocate for Research Data Storing</mark>
 
 🚁**Summary:** Help build awareness on the importance of preserving individual research data by sharing guides, tips, and resources for researchers needing to deposit their research data and findings in a public facing, yet secure site.&#x20;
+
+💁**Role:** Advocate
 
 🗂️**Workflow**
 
@@ -44,6 +47,8 @@ This track focuses on creating, revising, and sharing information about at-risk 
 #### <mark style="background-color:purple;">2. Research Team 1 (topic of public records protection, preservation and access)</mark>
 
 🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government data. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
+
+💁**Role:** Student and Educator
 
 🗂️ **Workflow**
 
@@ -64,6 +69,8 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🚁**Summary:** Given the many changes that governments undergo during a political transition, this task allows us to record and report what ACTUAL changes occurred to previously available government data like websites, webpages, repositories, social media accounts, etc.
 
+💁**Role:** Researcher
+
 🗂️ **Workflow**
 
 * Conduct research on the following questions or add relevant questions to this shared document
@@ -77,6 +84,8 @@ This track focuses on creating, revising, and sharing information about at-risk 
 #### <mark style="background-color:purple;">4. Create promotional text/images</mark>
 
 🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning.&#x20;
+
+💁**Role:** Promotoer
 
 🗂️ **Workflow**
 
