@@ -61,7 +61,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
    3. What other legislation exists that deals with preservation of at-risk data (USA or beyond)?
    4. How does the American public perceive government data loss?&#x20;
    5. How does this compare with other countries?
-4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [**Link to Research Team Summaries**]
+4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research doc: [**Link to Research Team Summaries**](https://wustl.box.com/s/nu3mn7oeyojvkwg30jwrqxlkh6wbsbve)
 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
@@ -79,7 +79,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
   3. Are people on social media commenting on these removals?
   4. Are there back up copies on sites like the [Internet Archive](http://web.archive.org/), [End of Term](https://eotarchive.org/data/), [DataLumos](https://www.datalumos.org/datalumos/search/studies)?&#x20;
   5. How do these tactics of removing public federal information compare with other countries?
-* Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [**Link to Research Team Summaries**]
+* Write a paragraph on your findings, reflections, or lingering questions onto the shared research doc: [**Link to Research Team Summaries**](https://wustl.box.com/s/nu3mn7oeyojvkwg30jwrqxlkh6wbsbve)
 
 #### <mark style="background-color:purple;">4. Create promotional text/images</mark>
 
