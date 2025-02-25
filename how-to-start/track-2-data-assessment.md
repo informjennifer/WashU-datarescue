@@ -10,7 +10,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 1. Identify & suggest at-risk web pages
 2. Describe collected webpages and records
-3. Contribute capture suggestions for relect repository collections
+3. Contribute capture suggestions for select repository collections
 
 **Tools Required (vary across tasks):**
 
