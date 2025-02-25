@@ -85,7 +85,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning.&#x20;
 
-💁**Role:** Promotoer
+💁**Role:** Promoter
 
 🗂️ **Workflow**
 
