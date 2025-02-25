@@ -38,12 +38,12 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 🗂️**Workflow:**&#x20;
 
 * Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
-  * NOTE: suggestions will be captured and/or deposited to 1 of the following repositories&#x20;
-    * [End of Term](https://eotarchive.org/) (EoT) : Mostly includes and collects webpages and files related to specific presidential administrations
-    * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope. Tends to capture web content (meaning webpages or part of websites) Harder to upload actual files.&#x20;
-* Research, name, and document web pages (individual pages or a small batch of pages within a website.&#x20;
-  * For a large quantity of web pages or complex large websites, see Track 3.
-* Submit basic information about the web page on this Data Tracking Form [**Link to Data Tracking Form**].&#x20;
+  * NOTE: suggestions will be captured and/or deposited to one of the following repositories&#x20;
+    * [End of Term](https://eotarchive.org/) (EoT) : mostly includes and collects webpages and files related to specific presidential administrations
+    * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope; tends to capture web content (meaning webpages or part of websites); harder to upload actual files&#x20;
+* Research, name, and document web pages (individual pages or a small batch of pages within a website&#x20;
+  * For a large quantity of web pages or complex large websites, see Track 3
+* Submit basic information about the web page on this Data Tracking Form [**Link to Data Tracking Form**]&#x20;
 
 🛠️**Skills Needed:** Be able to browse through web pages to assess value or significance of content then be able to access a google form to submit assessment and basic metadata (details about the webpage/website)
 
@@ -62,7 +62,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Use Data Tracking sheet for title and URL to find other information to create description
 * When metadata has been entered, change status of row in column K to "Needs Checksum" &#x20;
 
-🛠️**Skills Needed:** Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when. where, how)
+🛠️**Skills Needed:** Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when, where, how)
 
 #### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
