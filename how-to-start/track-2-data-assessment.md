@@ -42,7 +42,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
   * NOTE: suggestions will be captured and/or deposited to one of the following repositories&#x20;
     * [End of Term](https://eotarchive.org/) (EoT) : mostly includes and collects webpages and files related to specific presidential administrations
     * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope; tends to capture web content (meaning webpages or part of websites); harder to upload actual files&#x20;
-* Research, name, and document web pages (individual pages or a small batch of pages within a website&#x20;
+* Research, name, and document web pages (individual pages or a small batch of pages within a website)&#x20;
   * For a large quantity of web pages or complex large websites, see Track 3
 * Submit basic information about the web page on this Data Tracking Form [**Link to Data Tracking Form**]&#x20;
 
