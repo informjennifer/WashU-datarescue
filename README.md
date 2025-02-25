@@ -4,7 +4,6 @@ description: READ ME FIRST! ⛵
 
 # 🛟 Data Rescues 2025
 
-{% hint style="info" %}
 This Gitbook is an information resource and customizable template for Data Rescue events. It was [first developed by BKS Studio, LLC](https://github.com/nguyen-info/datarescue) in collaboration with the [University of Washington Center for Advances in Libraries, Museums, and Archives (CALMA)](https://calma.ischool.uw.edu/) for Data Rescue events in Seattle in January 2025 and is available for remix and reuse under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 If you are organizing a Data Rescue event, see the [For Organizers](resources-and-tools/for-organizers.md) page for more information about using this resource and planning an event.
