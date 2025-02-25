@@ -62,7 +62,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Use Data Tracking sheet for title and URL to find other information to create description
 * When metadata has been entered, change status of row in column K to "Needs Checksum" &#x20;
 
-🛠️Skills Needed Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when. where, how)
+🛠️**Skills Needed:** Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when. where, how)
 
 #### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
