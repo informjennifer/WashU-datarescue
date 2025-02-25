@@ -9,9 +9,8 @@ This Gitbook is an information resource and customizable template for Data Rescu
 If you are organizing a Data Rescue event, see the [For Organizers](resources-and-tools/for-organizers.md) page for more information about using this resource and planning an event.
 
 You can [fork or download this Gitbook from CALMA's Github](https://github.com/UW-CALMA/datarescue).
-{% endhint %}
 
-Modeled after the 2016-2017 DataRescue movement that responded to hostile conditions towards environmental and climate science data, these ad hoc digital archiving volunteer events invite community members to apply their technical skills and social values in response to new threats to important data. While Data Rescues can focus on any type of at-risk public and government data, many have focused on environmental issues given[documented threats and modifications](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246450) by recent political agendas. Open to public suggestions and contributions, this is a living document that is created and informed by documentation and literature from the 2017-2018 Data Rescues and by community-informed brainstorming discussions.&#x20;
+Modeled after the 2016-2017 DataRescue movement that responded to hostile conditions towards environmental and climate science data, these ad hoc digital archiving volunteer events invite community members to apply their technical skills and social values in response to new threats to important data. While Data Rescues can focus on any type of at-risk public and government data, many have focused on environmental issues given [documented threats and modifications](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246450) by recent political agendas. Open to public suggestions and contributions, this is a living document that is created and informed by documentation and literature from the 2017-2018 Data Rescues and by community-informed brainstorming discussions.&#x20;
 
 The following Gitbook pages include:
 
@@ -36,6 +35,6 @@ You are invited to comment and suggest ideas and updates to this site. **Submit 
 
 
 
-\
+
 
 
