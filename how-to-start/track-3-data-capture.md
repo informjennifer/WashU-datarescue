@@ -9,16 +9,13 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Tasks Include:**
 
-1. Capture website content
-2. Harvesting public datasets
-3. Review data authenticity and quality
+1. Harvest public datasets
+2. Add Descriptive Metadata 
+3. Organize & Package Data for Long-Term Storage
 
 **Tools Required (vary across tasks):**
 
-* Web capture tools ([Conifer](https://guide.conifer.rhizome.org/), [Archive-It](https://archive-it.org/), [Webrecorder](https://webrecorder.io/), [wget](https://www.gnu.org/software/wget/). [More information on web archiving](https://bits.ashleyblewer.com/blog/2017/09/20/how-do-web-archiving-frameworks-work/))
-* Data quality check system (i.e. checksum)
 * Spreadsheet editor (i.e., excel, google sheets)
-* Web monitoring tool
 * Storage (available internal memory, external hard drive)
 
 
