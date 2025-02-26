@@ -35,10 +35,13 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Identify a web file ready to   ready to be captured [**link to Data Tracking List**]
-2. Update the "Status" cell that you are working on that row so that others will know that you are working on that web file
-3. Using web capture software (like [Conifer](https://guide.conifer.rhizome.org/)) pick an at-risk website that includes at-risk data
-4. Change the status on the same "Status" cell to notify that the web file/data has been archived and to avoid others from doing redundant work
+1. Search for publicly funded project repositories (examples include: NIH [RePORTER](https://reporter.nih.gov/), US Government Awards [USASpending](https://www.usaspending.gov/search), Federal Audit Clearinghouse [FAC](https://app.fac.gov/dissemination/search/), [NWIS - National Water Information System](https://waterdata.usgs.gov/nwis?) and many others)
+2. Verify that downloadable datasets contain enough descriptive information (data files, interactive maps, etc.)&#x20;
+3. Capture dataset(s) to internal storage (temporary place)
+4. Submit and upload the dataset(s) via 1 of these options
+   * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/)&#x20;
+   * OR submit the URL of a downloadable folder via the exit tix [**link to Work Completion Form**]&#x20;
+5. You can delete dataset after successful transfer to Data Rescue coordinators
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
