@@ -13,13 +13,14 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 **Tools Required (vary across tasks):**
 
-1. Wayback Machine extension/add-on
+1. If using a Libraries computer: Just a web browser, and Box
+1. If using your own computer, or if you'd like to continue to nominate websites going forward, try a Wayback Machine extension/add-on
    1. [Chrome Extension](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?pli=1)
    2. [Firefox add-on](https://web.archive.org/web/20230212035050/https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)
    3. [Safari Extension](https://web.archive.org/web/20230212035050/https://apps.apple.com/us/app/wayback-machine/id1472432422)
    4. [iOS app](https://web.archive.org/web/20230212035050/https://itunes.apple.com/us/app/wayback-machine/id1201888313)
    5. [Android app](https://web.archive.org/web/20230212035050/https://play.google.com/store/apps/details?id=com.archive.waybackmachine)
-2. Spreadsheet editor (excel, google sheets)
+
 
 **Breakdown of Task Sections**\
 🚁 _(helicopter emoji)_ gives summary of task\
