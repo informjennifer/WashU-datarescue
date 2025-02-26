@@ -6,7 +6,7 @@ description: What are we collecting? Why?
 # 🗃️ Collecting Scope
 
 **WashU Data Rescue Suggested Collection Criteria**\
-In an effort to continue advancing environmental advocacy, protection and actions, the Data Rescues in Seattle will focus on Climate Data with the following data themes and types (collecting scope):
+In an effort to continue advancing environmental advocacy, protection and actions, the WashU Data Rescues will focus on Climate Data with the following data themes and types (collecting scope):
 
 1. Geographic Parameters
    1. Pacific Northwest, Alaska, and Antarctic regions
