@@ -31,7 +31,7 @@ We, the host of the 2025 WashU Data Rescue, acknowledge the various threats many
 
 Tangentially we include medical government records as we see clear connections across the topics of environmental conditions and public health, community well being, and environmental and economic prosperity. But at the moment we are not able to focus on other [targeted](https://democracyforward.org/updates/democracy-forward-releases-report-detailing-devastating-impacts-of-the-far-right-project-2025s-day-one-policies/?gad_source=1\&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu2670DP9Fyc20ijHyT2ebidkdRG7EPKtfgpjxYubYh_5gI1JhYjhJdBoCO4EQAvD_BwE) government records and programs types like those discussing inclusive healthcare, culturally and racially relevant education structures, reduction in welfare services like Medicare and Medicaid, or Labor Rights cutbacks. This is a resource limitation that we acknowledge and invite other to take up through their own Data Rescues.
 
-We have also chosen to prioritize federal government data due to the highly vocal apprehension from federal officials. We assume that given Washington State’s more supportive attitude towards environmental and climate science initiatives, there are fewer immediate threats compared to the federal government or other less supportive states.&#x20;
+We have also chosen to prioritize federal government data due to the highly vocal apprehension from federal officials.
 
 **Other Data Repository Collection Development Criteria**
 
