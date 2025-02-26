@@ -32,23 +32,26 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 #### 1. <mark style="background-color:purple;">Identify at-risk federal government web pages</mark>
 
-🚁**Summary:** Volunteers will search through a list of US government departments and agencies for websites that have not yet been copied into the End of Term Web Archive (rescued). If the site is not in that archive yet, nominate it to be included.
+🚁**Summary:** Volunteers will search through a list of US government departments and agencies for websites that have not yet been copied into the [End of Term Web Archive](https://eotarchive.org/) (rescued). If the site is not in that archive yet, nominate it to be included.
 
-💁**Role:** Website 
+💁**Role:** Web Archivist
 
 🗂️**Workflow:**&#x20;
-* Navigate to https://www.usa.gov/agency-index
-* Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
-  * NOTE: suggestions will be captured and/or deposited to one of the following repositories&#x20;
-    * [End of Term](https://eotarchive.org/) (EoT) : mostly includes and collects webpages and files related to specific presidential administrations
-    * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope; tends to capture web content (meaning webpages or part of websites); harder to upload actual files&#x20;
-* Research, name, and document web pages (individual pages or a small batch of pages within a website)&#x20;
-  * For a large quantity of web pages or complex large websites, see Track 3
-* Submit basic information about the web page on this Data Tracking Form [**Link to Data Tracking Form**]&#x20;
+* Go to WashU's Data Tracker at { DATA TRACKER LINK } - Find the Web Archiving Tracker tab on the spreadsheet.
+* Navigate to https://www.usa.gov/agency-index - Choose a letter A-Z; at this point, you may choose randomly.
+* Go through the agencies starting with that letter one by one. Find the website of each agency.
+* Go to the End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/ and search for the agency's website.
+* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker (Box spreadsheet). 
+  * If it isn't in the EoT archive already:
+      * Continue to fill out the nomination form as best you can with information from the usa.gov website. Submit, and know that you just saved a website!
+      * ALSO, fill out WashU's data tracker at {{{{BOX LINK}}} - Our data tracker asks you to note these fields: Agency (Name of the US agency), Webpage Name (might be the same; that's okay), URL, whether it was in the EoT already (No), and, if you nominated it, today's date. Ignore the fields about the Internet Archive's Wayback Machine.
+  * If it IS in the EoT archive already:
+     * Go to the WashU Data Tracker, navigate to the Web Archiving Tracker sheet, and enter agency, webpage name, URL, and mark Y to note that that URL is in the EoT already. Ignore the fields about the Internet Archive's Wayback Machine.
+* If there's anything to report to a WashU data coordinator (something went awry; something was wonderfully successful), leave a note in the notes field on the WashU Data Tracker.
 
-🛠️**Skills Needed:** Be able to browse through web pages to assess value or significance of content then be able to access a google form to submit assessment and basic metadata (details about the webpage/website)
+🛠️**Skills Needed:** Be able to browse through web pages, check if the site is in the End of Term archive or not, and then fill out a WashU Box spreadsheet detailing what you did. 
 
-#### <mark style="background-color:purple;">2. Describe collected webpages/records</mark>&#x20;
+#### <mark style="background-color:purple;">2. /records</mark>&#x20;
 
 🚁**Summary**: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.
 
