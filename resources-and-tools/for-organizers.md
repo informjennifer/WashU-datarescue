@@ -35,9 +35,7 @@ We used the following Google Forms/Spreadsheets/Docs. Create your own versions o
 * These repositories should be linked on the [Track 3](../how-to-start/track-3-technical.md) documentation
 
 ### Customizing this Gitbook
-You're welcome to fork this Gitbook or reuse the contents in other forms as desired. Several pages, including [Collecting Scope](collecting-scope.md) and [Community Agreements](community-agreements.md) include information that is not relevant outside of the Seattle Data Rescue events, but is included to help organizers develop their own information. 
-
-Don't forget to update the Community Scope and Community Agreement, remove the info tags at the top of some of the pages, and add in links to your own infrastructure.
+You're welcome to fork this Gitbook or reuse the contents in other forms as desired. Don't forget to update the Community Scope and Community Agreement, remove the info tags at the top of some of the pages, and add in links to your own infrastructure.
 
 ### Suggested Frequently Asked Questions for communications
 
