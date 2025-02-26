@@ -10,7 +10,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 **Tasks Include:**
 
 1. Harvest public datasets
-2. Add Descriptive Metadata 
+2. Add Metadata 
 3. Organize & Package Data for Long-Term Storage
 
 **Tools Required (vary across tasks):**
@@ -42,9 +42,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
-#### <mark style="background-color:purple;">2. Add Descriptive Metadata</mark>
+#### <mark style="background-color:purple;">2. Add Metadata to Harvested Datasets</mark>
 
-🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
+🚁**Summary:** Adding metadata to rescued data is a crucial step in making the data findable for future use. Metadata is often described as data about data. This workflow will focus entirely on adding  information about the data we have saved thus far in our data rescue efforts. 
 
 💁**Role:** Data Archivist
 
