@@ -31,7 +31,7 @@ We used the following Google Forms/Spreadsheets/Docs. Create your own versions o
     * Editable doc with prompt - see [Example](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?tab=t.0#heading=h.7otnd3urnwqn). Linked from [Track 1](../how-to-start/track-1-communications.md).
 
 #### Short-term repositories
-* For the Seattle Data Rescue, we used several different options to transfer data—participants could submit small files via a Google Form, they could use WeTransfer, or they could email it to the organizers. Use whatever resources you have (including these and others), but be aware that all may have size and institutional affiliation limitations. 
+* We used several different options to transfer data—participants could submit small files via a Google Form, they could use WeTransfer, or they could email it to the organizers. Use whatever resources you have (including these and others), but be aware that all may have size and institutional affiliation limitations. 
 * These repositories should be linked on the [Track 3](../how-to-start/track-3-technical.md) documentation
 
 ### Customizing this Gitbook
