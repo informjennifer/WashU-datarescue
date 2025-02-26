@@ -11,7 +11,7 @@ Organizers will be happy to help participants contact local law enforcement, pro
 
 # 💬 Community Agreements
 
-At Data Rescue events, we strive to support and create an environment that encourages all participants—organizers, supporters, any and all stakeholders to hold safe, engaging, and respectful environments where each person is able to focus their energy on the Data Rescue’s intent.
+At Data Rescue events, we strive to support and create an environment that encourages all participants (organizers, supporters, and stakeholders) to hold safe, engaging, and respectful environments where each person is able to focus their energy on the Data Rescue’s intent.
 
 These are our suggested community agreements for all Data Rescue events as designed by the Collective Responsibility: [Code of Conduct and Community Agreement – Collective Responsibility](https://laborforum.diglib.org/code-of-conduct-and-community-agreement/). For WashU Data Rescue 2025, we can also add our own set of community agreements. Link to [Co-Created Community Agreements](https://wustl.box.com/s/coswg6jpetpq9a9e5y15f49yeptuqyg5).
 
