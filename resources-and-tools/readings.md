@@ -1,9 +1,3 @@
----
-description: >-
-  References included in the Gitbook as well as other notable research findings
-  and reflections
----
-
 # Readings
 
 {% hint style="info" %}
