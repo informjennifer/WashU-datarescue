@@ -35,7 +35,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1.	Navigate to the Dataset Archiving Tracker and choose a dataset that has not yet been downloaded, indicated by an “N” in the column “Data Downloaded” within the “File Transfer Checklist” section. Update the column to IP for “in process” to indicate you are working on it. Add your name to the cell in the “Claimed by” column.
+1.	Navigate to the [Dataset Archiving Tracker](https://wustl.app.box.com/integrations/officeonline/openOfficeOnline?fileId=1787274129482&sharedAccessCode=) and choose a dataset that has not yet been downloaded, indicated by an “N” in the column “Data Downloaded” within the “File Transfer Checklist” section. Update the column to IP for “in process” to indicate you are working on it. Add your name to the cell in the “Claimed by” column.
 2.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
 3.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.) 
 4.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
@@ -74,7 +74,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 3.	Navigate to your email and compose a message to researchdata@wustl.edu. Write “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
        * If the ZIP file size is too large to send over email but below 2 GB, use [https://wetransfer.com/](https://wetransfer.com/)&#x20; to email the file.
        * If ZIP file is larger than 2 GB, consult with the present coordinators to determine other means of transfer. 
-5.	In the File Transfer Checklist section of the Data Archiving Tracker, update the “Transferred to Coordinator?” column for your dataset to “Y”.
+5.	In the File Transfer Checklist section of the [Data Archiving Tracker](https://wustl.app.box.com/integrations/officeonline/openOfficeOnline?fileId=1787274129482&sharedAccessCode=), update the “Transferred to Coordinator?” column for your dataset to “Y”.
 6.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
