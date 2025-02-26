@@ -1,8 +1,6 @@
 # Readings
 
-{% hint style="info" %}
 You can also check out the [Updates](updates.md) page for more updated news regarding federal websites and data.
-{% endhint %}
 
 ClimateWire, S. W. (n.d.). Climate Web Pages Erased and Obscured under Trump. Scientific American. Retrieved January 3, 2025, from[ https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/](https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/)
 
