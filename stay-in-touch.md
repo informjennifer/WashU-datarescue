@@ -4,7 +4,7 @@ Given the various existing networks, groups, and institutions involved, there is
 
 **WashU Commmunity**
 
-Stay updated on future WashU Data Rescue events by [filling out this form](https://app.smartsheet.com/b/form/3e039a7b0d584bd3a976b19a483855fe)
+Stay updated on future WashU Data Rescue events by [filling out this form](https://app.smartsheet.com/b/form/3e039a7b0d584bd3a976b19a483855fe).
 
 
 **Environmental Data Preservation Listservs**
