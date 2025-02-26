@@ -1,7 +1,3 @@
----
-description: Readings and tools available online
----
-
 # 🛠️ Resources & Tools
 
 ### [Tools](./#tools)
