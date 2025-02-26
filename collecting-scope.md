@@ -5,7 +5,7 @@ description: What are we collecting? Why?
 
 # 🗃️ Collecting Scope
 
-**Seattle Data Rescue Suggested Collection Criteria**\
+**WashU Data Rescue Suggested Collection Criteria**\
 In an effort to continue advancing environmental advocacy, protection and actions, the Data Rescues in Seattle will focus on Climate Data with the following data themes and types (collecting scope):
 
 1. Geographic Parameters
