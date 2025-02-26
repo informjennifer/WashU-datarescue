@@ -9,11 +9,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Tasks Include:**
 
-1. Setup website monitoring systems
-2. Capture website content
-3. Harvesting public datasets
-4. Review data authenticity and quality
-5. Program or conduct comprehensive data/website crawl&#x20;
+1. Capture website content
+2. Harvesting public datasets
+3. Review data authenticity and quality
 
 **Tools Required (vary across tasks):**
 
