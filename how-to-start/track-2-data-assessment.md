@@ -1,16 +1,15 @@
-# 🔍 Track 2 (Data Assessment)
+# 🔍 Track 2 (Web Archiving)
 
-This track focuses on finding and evaluating valuable and relevant at-risk data. This helps others be able to complete capturing tasks as they can depend on your “peer reviewed” assessment.
+This track focuses on finding and evaluating valuable and at-risk websites. Utilizing resources at the End of Term Web Archive, the Internet Archive, and others, volunteers will identify websites that need to be duplicated and submit them to non-governmental repositories.
 
-**Tech Skill Level:** Intermediate
+**Tech Skill Level:** Beginner/Intermediate
 
-**Time Commitment:** \~2 hours
+**Time Commitment:** ~30min-1 hour
 
 **Tasks Include:**
 
-1. Identify & suggest at-risk web pages
-2. Describe collected webpages and records
-3. Contribute capture suggestions for select repository collections
+1. Familiarization with alternate sources for governmental web content
+2. Identify and submit at-risk web pages
 
 **Tools Required (vary across tasks):**
 
