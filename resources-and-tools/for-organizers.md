@@ -26,7 +26,7 @@ We used the following Google Forms/Spreadsheets/Docs. Create your own versions o
     * Linked from:
         * [Track 1](../how-to-start/track-1-communications.md)
         * [Track 3](../how-to-start/track-3-technical.md)
-* (Optional) Digital Research Repository outreach template ([See example from Seattle Data Rescue](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing). Linked from [Track 1](../how-to-start/track-1-communications.md).
+* (Optional) Digital Research Repository outreach template ([See example](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing). Linked from [Track 1](../how-to-start/track-1-communications.md).
 * Research Team Summaries (Google Doc)
     * Editable doc with prompt - see [Seattle Example](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?tab=t.0#heading=h.7otnd3urnwqn). Linked from [Track 1](../how-to-start/track-1-communications.md).
 
