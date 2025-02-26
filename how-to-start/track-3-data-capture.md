@@ -29,7 +29,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 #### <mark style="background-color:purple;">1. Harvest Public Datasets Available Online</mark>
 
-🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
+🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
 
 💁**Role:** Data Collector
 
