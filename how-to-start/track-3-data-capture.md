@@ -7,6 +7,14 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Time Commitment:** \~2-3 hours
 
+**Tasks Include:**
+
+1. Setup website monitoring systems
+2. Capture website content
+3. Harvesting public datasets
+4. Review data authenticity and quality
+5. Program or conduct comprehensive data/website crawl&#x20;
+
 **Tools Required (vary across tasks):**
 
 * Web capture tools ([Conifer](https://guide.conifer.rhizome.org/), [Archive-It](https://archive-it.org/), [Webrecorder](https://webrecorder.io/), [wget](https://www.gnu.org/software/wget/). [More information on web archiving](https://bits.ashleyblewer.com/blog/2017/09/20/how-do-web-archiving-frameworks-work/))
@@ -15,13 +23,6 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 * Web monitoring tool
 * Storage (available internal memory, external hard drive)
 
-**Tasks Include:**
-
-1. Setup website monitoring systems
-2. Capture website content
-3. Harvesting public datasets
-4. Review data authenticity and quality
-5. Program or conduct comprehensive data/website crawl&#x20;
 
 **Breakdown of Task Sections**\
 🚁 _(helicopter emoji)_ gives summary of task\
