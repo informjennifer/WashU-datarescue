@@ -20,7 +20,7 @@ For Data an Web Archive Capturing and Harvesting
 * Crawl website (Heritrix): [https://sourceforge.net/projects/heritrix.mirror/](https://sourceforge.net/projects/heritrix.mirror/)
 * Capture backend of websites: [https://deeparc.sourceforge.net/](https://deeparc.sourceforge.net/)
 
-**For Website Monitoring and Assessments**
+For Website Monitoring and Assessments
 
 * Estimate website size: [https://github.com/izkreny/website-size](https://github.com/izkreny/website-size)
 * Monitor websites in bulk (thousands): [https://github.com/edgi-govdata-archiving/web-monitoring](https://github.com/edgi-govdata-archiving/web-monitoring)
