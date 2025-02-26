@@ -3,11 +3,11 @@ description: Commmunity agreements and code of conduct.
 ---
 
 # 🙏  Code of Conduct
-This is a harassment-free environment for everyone, regardless of gender, gender identity and expression,sexual orientation, disability, physical appearance, body size, race, age or religion or technical skill level. We do not tolerate harassment of participants in any form. Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation,stalking, following, harassing photography or recording, sustained disruption of talks or other events,inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassingbehavior are expected to comply immediately.
+This is a harassment-free environment for everyone, regardless of gender, gender identity and expression,sexual orientation, disability, physical appearance, body size, race, age or religion or technical skill level. We do not tolerate harassment of participants in any form. Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from events and online forums. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizingteam immediately.
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from events and online forums. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing team immediately.
 
-Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwiseassist those experiencing harassment to feel safe for the duration of the event. We value your participation!
+Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your participation!
 
 # 💬 Community Agreements
 
