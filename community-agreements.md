@@ -19,7 +19,7 @@ We ask all volunteers to help uphold these community practices and principles.&#
 
 #### We Practice Community By…  <a href="#practice" id="practice"></a>
 
-* _making space/taking space—encouraging and yielding the floor to those whose viewpoints may be under-represented in a group, taking space made for you as you’re able;_
+* _making space/taking space—encouraging and yielding the floor to those whose viewpoints may be underrepresented in a group, taking space made for you as you’re able;_
 * _respecting a person’s description of their experiences of marginalization or discrimination (and not excusing, explaining, or defending the intentions of those in the dominating group);_
 * _using welcoming language (including a person’s pronouns) and favoring gender-neutral collective nouns (“folks” or “y’all,” not “guys”);_
 * _accepting critique graciously and offering it constructively;_
