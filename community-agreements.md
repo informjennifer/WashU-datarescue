@@ -22,4 +22,3 @@ We ask all volunteers to help uphold these community practices and principles.&#
 * _practicing self and community care—pay attention to your body’s needs and, as Active Bystanders, to the welfare of those around us._
 
 Here is the rationale on why community agreements are supportive for community spaces: [Group Agreements - Seeds for Change](https://www.seedsforchange.org.uk/groupagree)
-We invite community members to suggest and/or share any other resources or samples that might be relevant and helpful as we build a welcoming and respectful environment towards our collective goals.
