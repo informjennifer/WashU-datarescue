@@ -3,21 +3,19 @@
 **WashU Data Rescue Suggested Collection Criteria**\
 In an effort to continue advancing environmental advocacy, protection and actions, the WashU Data Rescues will focus on Climate Data with the following data themes and types (collecting scope):
 
-1. Geographic Parameters
-   **1. Pacific Northwest, Alaska, and Antarctic regions**
-2. Time frame
+1. Time frame
    1. 2020 - present day
-3. Record Types
+2. Record Types
    1. Public Resources (examples: PSA about cooling centers, programming flyers about relevant talks)
    2. Agency Reports and assessments (examples: reports of pollutants in water systems)&#x20;
    3. Grant funded project datasets from researchers or consultants (examples: grant reports, funding proposals, or publication samples)
-4. Data types
+3. Data types
    1. Image files (JPG, TIFF, etc.)
    2. Digital documents (DOCX, PDF)&#x20;
    3. Web files (WARC, ARC, or HAR files)
-5. Rights & Restrictions:&#x20;
+4. Rights & Restrictions:&#x20;
    1. Only public records (information created or maintained by a government agency that is available to the public upon request) (think those created via public funding or by government agencies)
-6. Languages
+5. Languages
    1. English primary; other languages as volunteer skills are available
 
 #### Rationale
