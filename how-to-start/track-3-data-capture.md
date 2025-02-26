@@ -9,7 +9,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Tasks Include:**
 
-1. Harvest public datasets
+1. Harvest Public Datasets
 2. Add Metadata 
 3. Organize & Package Data for Long-Term Storage
 
@@ -72,8 +72,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.)
 2.	Navigate to the top folder for the dataset. Right click and choose “Compress to…” then ZIP File. 
 3.	Navigate to your email and compose a message to researchdata@wustl.edu. Write “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
-4.	In the File Transfer Checklist section of the Data Archiving Tracker, update the “Transferred to Coordinator?” column for your dataset to “Y”.
-5.	After receiving email confirmation that the file transfer was successful, delete the dataset from internal device storage.
+       * If the file size is too large to send over email but below 2 GB, use [https://wetransfer.com/](https://wetransfer.com/)&#x20; to email the file.
+5.	In the File Transfer Checklist section of the Data Archiving Tracker, update the “Transferred to Coordinator?” column for your dataset to “Y”.
+6.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
 🛠️**Skills Needed:** Basic understanding of file compression. Comfort applying principles of information organization and taxonomic structures.
