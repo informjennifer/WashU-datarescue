@@ -1,14 +1,8 @@
----
-description: what has happened since January 2025?
----
-
 # Updates
 
-{% hint style="info" %}
 This page was last updated on February 4, 2025
-{% endhint %}
 
-a lot. A LOT has happened.
+A lot. A LOT has happened.
 
 Numerous changes have occurred. Many bad, some good.
 
