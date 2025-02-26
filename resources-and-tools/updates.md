@@ -1,5 +1,5 @@
 ---
-description: what has happened since our January 2025 Seattle Data Rescues?
+description: what has happened since January 2025?
 ---
 
 # Updates
@@ -10,7 +10,7 @@ This page was last updated on February 4, 2025
 
 a lot. A LOT has happened.
 
-After our Seattle public education, peer collecting and collective description Data Rescue efforts, numerous changes have occurred. Many bad, some good.
+Numerous changes have occurred. Many bad, some good.
 
 **FIRST THE GOOD**\
 Internet Archive received a [backup copy of the CDC](https://archive.org/details/20250128-cdc-datasets), [End of Term project](https://eotarchive.org/data/) is processing the anticipated 300 TB of select Biden public admin files, and the [Public Environmental Data Project](https://screening-tools.com/) collected \~52 massive datasets now slowly coming online.\
