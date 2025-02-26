@@ -37,4 +37,4 @@ We have also chosen to prioritize federal government data due to the highly voca
 
 * End of Term - read [call for submission](https://blogs.loc.gov/thesignal/2024/07/nominations-sought-for-the-2024-2025-u-s-federal-government-domain-end-of-term-web-archive/) post
 * Internet Archive - [Collection Development](https://help.archive.org/help/internet-archive-collection-development-policy/) policy
-* WashU Libraries [Collection Development](https://library.wustl.edu/about/policies/collection-development-policy/) policy
+* WashU Libraries - [Collection Development](https://library.wustl.edu/about/policies/collection-development-policy/) policy
