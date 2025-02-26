@@ -1,8 +1,3 @@
----
-description: What are we collecting? Why?
----
-
-
 # 🗃️ Collecting Scope
 
 **WashU Data Rescue Suggested Collection Criteria**\
