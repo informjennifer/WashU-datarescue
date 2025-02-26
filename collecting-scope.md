@@ -2,7 +2,7 @@
 
 **WashU Data Rescue Suggested Collection Criteria**
 
-In an effort to continue advancing environmental advocacy, protection and actions, the WashU Data Rescues will focus on **Climate Data** with the following data themes and types (collecting scope):
+The WashU Data Rescues will focus on targets identified by the Environmental Data and Governance Initiative and the Data Rescue Project with the following data themes and types (collecting scope):
 
 1. Time frame
    1. 2020 - present day
