@@ -53,7 +53,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Navigate to the [Dataset Archiving Tracker](https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8) tab in the WashU Data Rescue Tracker.
+1. Navigate to the [WashU Data Rescue Tracker](https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8) and click on the Dataset Archiving Tracker tab.
 2. Go to the row applicable for your selected dataset.
 3. Click the URL listed for your dataset and navigate to the federal web page housing the data.
 4. Review the information on the webpage that describes the data.
