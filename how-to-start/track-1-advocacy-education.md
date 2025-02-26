@@ -8,7 +8,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 **Tasks Include (highlighted below&#x20;**<mark style="background-color:yellow;">**in yellow**</mark>):
 
-1. Write letters to advocate for individual researcher to deposit their research data
+1. Write letters to advocate for individual researchers to deposit their research data
 2. Contribute to group research on public records legislation
 3. Contribute to group research on disappeared websites since start of 2025 administration&#x20;
 4. Share updates, news, or general takeaways with close friends, family, and peers
