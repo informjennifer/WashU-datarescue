@@ -1,6 +1,6 @@
 # 🗃️ Collecting Scope
 
-**WashU Data Rescue Suggested Collection Criteria**\
+**WashU Data Rescue Suggested Collection Criteria**
 
 In an effort to continue advancing environmental advocacy, protection and actions, the WashU Data Rescues will focus on **Climate Data** with the following data themes and types (collecting scope):
 
