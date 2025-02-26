@@ -1,6 +1,6 @@
 # 🔍 Track 2 (Web Archiving)
 
-This track focuses on finding and evaluating valuable and at-risk websites. Utilizing resources at the End of Term Web Archive, the Internet Archive, and others, volunteers will identify websites that need to be duplicated and submit them to non-governmental repositories.
+This track focuses on finding and evaluating valuable and at-risk websites. Utilizing the [End of Term Web Archive](https://eotarchive.org/), volunteers will identify websites that need to be duplicated and submit them to this non-governmental website repository.
 
 **Tech Skill Level:** Beginner/Intermediate
 
@@ -8,13 +8,13 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 **Tasks Include:**
 
-1. Familiarization with alternate sources for governmental web content
-2. Identify and submit at-risk web pages
+1. Identify and submit at-risk web pages
+2. Familiarization with alternate sources for governmental web content
 
 **Tools Required (vary across tasks):**
 
-1. If using a Libraries computer: Just a web browser, and Box
-1. If using your own computer, or if you'd like to continue to nominate websites going forward, try a Wayback Machine extension/add-on
+1. For Task 1, use a library computer or your own. You just need a web browser
+1. For Task 2, use your own computer if you'd like to continue to nominate websites going forward beyond this event. Try a Wayback Machine extension/add-on:
    1. [Chrome Extension](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?pli=1)
    2. [Firefox add-on](https://web.archive.org/web/20230212035050/https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)
    3. [Safari Extension](https://web.archive.org/web/20230212035050/https://apps.apple.com/us/app/wayback-machine/id1472432422)
@@ -37,14 +37,14 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 💁**Role:** Web Archivist
 
 🗂️**Workflow:**&#x20;
-* Go to WashU's Data Tracker at { DATA TRACKER LINK } - Find the Web Archiving Tracker tab on the spreadsheet.
+* Go to WashU's Data Tracker at https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8 - Find the Web Archiving Tracker tab on the spreadsheet.
 * Navigate to https://www.usa.gov/agency-index - Choose a letter A-Z; at this point, you may choose randomly.
 * Go through the agencies starting with that letter one by one. Find the website of each agency.
 * Go to the End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/ and search for the agency's website.
-* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker (Box spreadsheet). 
+* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the [WashU Data Tracker](https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8) (Box spreadsheet). 
   * If it isn't in the EoT archive already:
       * Continue to fill out the nomination form as best you can with information from the usa.gov website. Submit, and know that you just saved a website!
-      * ALSO, fill out WashU's data tracker at {{{{BOX LINK}}} - Our data tracker asks you to note these fields: Agency (Name of the US agency), Webpage Name (might be the same; that's okay), URL, whether it was in the EoT already (No), and, if you nominated it, today's date. Ignore the fields about the Internet Archive's Wayback Machine.
+      * ALSO, fill out WashU's data tracker at https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8 - Our data tracker asks you to note these fields: Agency (Name of the US agency), Webpage Name (might be the same; that's okay), URL, whether it was in the EoT already (No), and, if you nominated it, today's date. Ignore the fields about the Internet Archive's Wayback Machine.
   * If it IS in the EoT archive already:
      * Go to the WashU Data Tracker, navigate to the Web Archiving Tracker sheet, and enter agency, webpage name, URL, and mark Y to note that that URL is in the EoT already. Ignore the fields about the Internet Archive's Wayback Machine.
 * If there's anything to report to a WashU data coordinator (something went awry; something was wonderfully successful), leave a note in the notes field on the WashU Data Tracker.
