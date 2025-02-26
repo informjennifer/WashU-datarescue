@@ -30,14 +30,14 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 ### SUGGESTED TASKS & INSTRUCTIONS
 
-#### 1. <mark style="background-color:purple;">Identify & suggest at-risk web pages</mark>
+#### 1. <mark style="background-color:purple;">Identify at-risk federal government web pages</mark>
 
-🚁**Summary:** Volunteers will search through the web for web pages, single files, and other online information that may be considered at-risk data from sources like federal agencies, state and regional offices, or national or local environmental organizations and groups.
+🚁**Summary:** Volunteers will search through a list of US government departments and agencies for websites that have not yet been copied into the End of Term Web Archive (rescued). If the site is not in that archive yet, nominate it to be included.
 
-💁**Role:** Browser
+💁**Role:** Website 
 
 🗂️**Workflow:**&#x20;
-
+* Navigate to https://www.usa.gov/agency-index
 * Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
   * NOTE: suggestions will be captured and/or deposited to one of the following repositories&#x20;
     * [End of Term](https://eotarchive.org/) (EoT) : mostly includes and collects webpages and files related to specific presidential administrations
