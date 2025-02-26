@@ -9,7 +9,7 @@ description: What are we collecting? Why?
 In an effort to continue advancing environmental advocacy, protection and actions, the WashU Data Rescues will focus on Climate Data with the following data themes and types (collecting scope):
 
 1. Geographic Parameters
-   1. Pacific Northwest, Alaska, and Antarctic regions
+   **1. Pacific Northwest, Alaska, and Antarctic regions**
 2. Time frame
    1. 2020 - present day
 3. Record Types
@@ -27,9 +27,9 @@ In an effort to continue advancing environmental advocacy, protection and action
 
 #### Rationale
 
-We, the host of the 2025 WashU Data Rescue, acknowledge the various threats many government data types face today and across time, but in order to keep the intention and scope manageable and relevant to our immediate Missouri and Midwest communities, we selected the above criteria. We note that many researchers, students, and educators in Missouri place a heavy emphasis on environmental and climate data due to our local histories including agriculture, trade, cultural beliefs, and social activities. We attempt through our select scope to appeal to local volunteers as well as to utilize local knowledge to the best of our abilities.&#x20;
+We, the host of the 2025 WashU Data Rescue, acknowledge the various threats many government data types face today and across time, but in order to keep the intention and scope manageable and relevant to our immediate Missouri and Midwest communities, we selected the above criteria. We note that many researchers, students, and educators in Missouri **place a heavy emphasis on environmental and climate data due to our local histories including agriculture, trade, cultural beliefs, and social activities.** We attempt through our select scope to appeal to local volunteers as well as to utilize local knowledge to the best of our abilities.&#x20;
 
-Tangentially we include medical government records as we see clear connections across the topics of environmental conditions and public health, community well being, and environmental and economic prosperity. But at the moment we are not able to focus on other [targeted](https://democracyforward.org/updates/democracy-forward-releases-report-detailing-devastating-impacts-of-the-far-right-project-2025s-day-one-policies/?gad_source=1\&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu2670DP9Fyc20ijHyT2ebidkdRG7EPKtfgpjxYubYh_5gI1JhYjhJdBoCO4EQAvD_BwE) government records and programs types like those discussing inclusive healthcare, culturally and racially relevant education structures, reduction in welfare services like Medicare and Medicaid, or Labor Rights cutbacks. This is a resource limitation that we acknowledge and invite other to take up through their own Data Rescues.
+Tangentially **we include medical government records as we see clear connections across the topics of environmental conditions and public health, community well being, and environmental and economic prosperity. But at the moment we are not able to focus on other [targeted](https://democracyforward.org/updates/democracy-forward-releases-report-detailing-devastating-impacts-of-the-far-right-project-2025s-day-one-policies/?gad_source=1\&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu2670DP9Fyc20ijHyT2ebidkdRG7EPKtfgpjxYubYh_5gI1JhYjhJdBoCO4EQAvD_BwE) government records and programs types like those discussing inclusive healthcare, culturally and racially relevant education structures, reduction in welfare services like Medicare and Medicaid, or Labor Rights cutbacks.** This is a resource limitation that we acknowledge and invite other to take up through their own Data Rescues.
 
 We have also chosen to prioritize federal government data due to the highly vocal apprehension from federal officials.
 
