@@ -51,38 +51,30 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 🛠️**Skills Needed:** Be able to browse through web pages, check if the site is in the End of Term archive or not, and then fill out a WashU Box spreadsheet detailing what you did. 
 
-#### <mark style="background-color:purple;">2. /records</mark>&#x20;
+#### <mark style="background-color:purple;">2. Other web archiving activities</mark>&#x20;
 
-🚁**Summary**: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.
+🚁**Summary**: This task is for the person interested in archiving websites for any number of reasons, who would like to perform independent web archiving on their own computer.
 
-💁**Role:** Metadata Cataloger
+💁**Role:** Web Archivist
 
 🗂️**Workflow**
 
-* Read [dublin core basic manual ](https://www.dublincore.org/specifications/dublin-core/usageguide/)to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)
-* Navigate to the [**link to Data Tracking List**] sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
-* Select a row with an item that is marked as "Needs Metadata" (this info found in column K)
-* Fill-in descriptive text for your select row for all 5 metadata columns (these are columns P through U colored in teal blue)
-* Use Data Tracking sheet for title and URL to find other information to create description
-* When metadata has been entered, change status of row in column K to "Needs Checksum" &#x20;
+* Do you depend on a website that's in danger of disappearing? Maybe it's a personal site, and there's no guarantee the owner will renew domain name. Perhaps you know of websites that need to be archived, but that aren't US federal government websites. There are other options beyond the [End of Term Web Archive](https://eotarchive.org/)
+  * Check out the extensions, add-ons, and apps at the top of this page. Whether you use Chrome on a laptop or browse the web on an iPhone, you can contribute pages to the Internet Archive - the largest web archive in the world.
+    * If you create an account at Internet Archive, and save a certain number of websites, you can have Internet Archive create a collection for you, which you can arrange and manage. 
+  * Use [Conifer](https://conifer.rhizome.org/) to capture dynamic sites. The archived website will live in your Conifer account - not the Internet Archive.
 
-🛠️**Skills Needed:** Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when, where, how)
 
-#### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
+🛠️**Skills Needed:** Own computer - Desire to save websites
 
-🚁**Summary:** Participants in this track will browse a specific set of suggested at-risk federal webpages to search for ones that need to be preserved.&#x20;
+#### <mark style="background-color:purple;">3. possibly delete</mark>&#x20;
+
+🚁**Summary:** Participants in this track will
 
 💁**Role:** Data Assessor
 
 🗂️**Workflow:**&#x20;
 
-* Reference this [**Link to Data Tracking Form**] that are ready for archiving
-* Select a row
-* Change row Status to “In-progress - Capture ”
-* To capture, decide if it goes to the Internet Archive or the End of Term project
-  * Internet Archive-  use [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?pli=1), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/), or [Safari](https://apps.apple.com/us/app/wayback-machine/id1472432422) browser extension to capture webpage OR entr URL directly via the Wayack Machine (navigate to "[Save Page Now](http://web.archive.org/)" option)
-  * End of Term - use the project's [nomination form](https://digital2.library.unt.edu/nomination/eth2024/add/) to add URL, title, & government data type
-* Update row status to “Captured" on the spreadsheet
-* Repeat process for a new submission
+* 
 
-🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button (listed in above Tools Required) to notify the Internet Archive or the End of Term project, which has been preserving federal webpages since 2008. Once the URL to the web page has been submitted to Internet Archive, the EoT will automatically process the webpage for long term preservation into their repository.
+🛠️**Skills Needed:** 
