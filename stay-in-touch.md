@@ -9,15 +9,15 @@ Stay updated on future WashU Data Rescue events by [filling out this form](https
 
 **Environmental Data Preservation Listservs**
 
-* ProjectARCC (Archivists Responding to Climate Change) - [https://projectarcc.org/get-involved/](https://projectarcc.org/get-involved/)
-* DLF (Digital Library Federation) Climate Justice Working Group - [https://www.diglib.org/groups/climate-justice-working-group/](https://www.diglib.org/groups/climate-justice-working-group/)
-* NDSA (National Digital Stewardship Alliance) - https://ndsa.org/groups/climate-watch/
+* [ProjectARCC (Archivists Responding to Climate Change)](https://projectarcc.org/get-involved/)
+* [DLF (Digital Library Federation) Climate Justice Working Group](https://www.diglib.org/groups/climate-justice-working-group/)
+* [NDSA (National Digital Stewardship Alliance)](https://ndsa.org/groups/climate-watch/)
 
 **Discord/Slack Spaces**
 
-* DocNow (Document the Now) slack: [https://www.docnow.io/](https://www.docnow.io/)
+* [DocNow (Document the Now) slack](https://www.docnow.io/)
 
 **Community Networks**
 
-* Environmental Data Governance Initiative (EDGI): [https://envirodatagov.org/volunteer/](https://envirodatagov.org/volunteer/)&#x20;
-* DocNow (Archivists Supporting Activists): [https://archivist.docnow.io/#/web/index](https://archivist.docnow.io/#/web/index)&#x20;
+* [Environmental Data Governance Initiative (EDGI)](https://envirodatagov.org/volunteer/)
+* [DocNow (Archivists Supporting Activists)](https://archivist.docnow.io/#/web/index)&#x20;
