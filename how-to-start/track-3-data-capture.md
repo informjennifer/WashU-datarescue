@@ -88,21 +88,4 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Best for those who have strong tech skills, attention to detail, and willingness to read the docs.
 
-#### <mark style="background-color:purple;">4. Set up monitoring API tracker to document changes to government websites</mark>
 
-🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many websites need to continually crawled to document track changes.
-
-💁**Role:** Web Crawler
-
-🗂️**Workflow**
-
-1. Read or skim the following report of website monitoring by EDGI
-   1. Report Link: [https://envirodatagov.org/publication/changing-digital-climate/](https://envirodatagov.org/publication/changing-digital-climate/)&#x20;
-2. Download the a monitoring tool like:
-   1. HTTP API tracker [https://github.com/edgi-govdata-archiving/web-monitoring-db](https://github.com/edgi-govdata-archiving/web-monitoring-db)&#x20;
-   2. Comprehensive list of other tools here: [https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)&#x20;
-3. Identify website to track using [**link to Data Tracking List**])&#x20;
-4. Deploy tracker for selected website&#x20;
-5. Submit information about tracked website to [**link to the Data Tracking form**]
-
-**Skills Needed:** Advanced understanding of software deployment, APIs, and technical git repositories.&#x20;
