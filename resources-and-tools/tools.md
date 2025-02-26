@@ -1,9 +1,3 @@
----
-description: >-
-  Information about tools needed for tasks or other important digital
-  preservation work
----
-
 # Tools
 
 For Authenticity and Verification
