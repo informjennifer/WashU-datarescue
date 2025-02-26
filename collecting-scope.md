@@ -2,8 +2,6 @@
 description: What are we collecting? Why?
 ---
 
-{% hint style="info" %}
-{% endhint %}
 
 # 🗃️ Collecting Scope
 
