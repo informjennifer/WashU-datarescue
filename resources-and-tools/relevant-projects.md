@@ -1,9 +1,3 @@
----
-description: >-
-  Information about relevant digital preservation work of at-risk data (both
-  inactive & active)
----
-
 # Model Projects
 
 **Environmental Data and Governance Initiative** [https://envirodatagov.org/](https://envirodatagov.org/)\
