@@ -31,7 +31,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
 
-💁**Role:** Web Archivist
+💁**Role:** Data Collector
 
 🗂️**Workflow**
 
