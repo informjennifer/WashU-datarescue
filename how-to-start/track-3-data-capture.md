@@ -9,9 +9,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Tasks Include:**
 
-1. Harvest Public Datasets
-2. Add Metadata 
-3. Organize & Package Data for Long-Term Storage
+1. Harvest public datasets
+2. Add metadata 
+3. Organize and package data for long-term storage
 
 **Tools Required (vary across tasks):**
 
