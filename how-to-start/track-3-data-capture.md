@@ -16,7 +16,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 **Tools Required (vary across tasks):**
 
 * Spreadsheet editor (i.e., excel, google sheets)
-* Storage: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti 
+* Storage: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti
+* * Large file transfer (wustl key only): https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe
 
 
 **Breakdown of Task Sections**\
@@ -75,12 +76,16 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.)
 2.	create folder in box. folder naming convention: datarescue_yourinitionals
 4.	Navigate to the top folder for the dataset. Right click and choose “Compress to…” then ZIP File. 
-5.	Drop the zipped file into: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti
+5.	Drop the zipped file into: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti 
 6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
-       * If the ZIP file size is too large to send over email but below 2 GB, use [https://wetransfer.com/](https://wetransfer.com/)&#x20; to email the file.
-       * If ZIP file is larger than 2 GB, consult with the present coordinators to determine other means of transfer. 
-7.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
-8.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
+7.	If files are too large, and you have an active WUSTL key you can request access to transfer via Globus
+   * https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe
+   * you will shoud be prompted to get permision
+   * if you have trouble,  consult with the present coordinators to determine other means of transfer
+8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
+       * consult with the present coordinators to determine other means of transfer. 
+9.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
+10.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
 🛠️**Skills Needed:** Basic understanding of file compression. Comfort applying principles of information organization and taxonomic structures.
