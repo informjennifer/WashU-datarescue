@@ -39,15 +39,16 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 💁**Role:** Web Archivist
 
 🗂️**Workflow:**&#x20;
-* You'll need two tabs or windows open: one for the WashU Data Tracker, and one for the End of Term Nomination Tool.
+* You'll need three tabs or windows open: 
     * Navigate to WashU's Data Tracker at https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8 - Find the Web Archiving Tracker tab on the spreadsheet.
-    * Navigate to https://www.usa.gov/agency-index 
+    * Navigate to https://www.usa.gov/agency-index
+    * Navigate to End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/
 * On the usa.gov site, choose a letter A-Z; at this point, you may choose randomly. Go through the agencies starting with that letter, one by one.
-* Copy the URL of a website for an agency. Go to the End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/ and search for the agency's website.
-* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the [WashU Data Tracker](https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8) (Box spreadsheet). 
+* Copy the URL of a website for an agency. Go to the End of Term Nomination Tool (EoT) and search for the agency's website.
+* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker Box spreadsheet. 
   1. NO - If it isn't in the EoT archive already:
       * Continue to fill out the nomination form as best you can with information from the usa.gov website. Submit, and know that you just saved a website!
-      * ALSO, fill out WashU's data tracker at https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8
+      * ALSO, fill out WashU's data tracker.
           * Our data tracker asks you to fill out a fiew metadata fields (columns).  (Check the README tab of the WashU Data Tracker spreadsheet if you have questions about what to put in each field.)
   2.  YES - If it IS in the EoT archive already:
      * Go to the WashU Data Tracker, navigate to the Web Archiving Tracker sheet, and enter agency, webpage name, URL, and mark Y to note that that URL is in the EoT already. 
