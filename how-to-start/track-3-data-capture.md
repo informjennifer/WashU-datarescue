@@ -79,7 +79,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 5.	Drop the zipped file into: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti 
 6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
 7.	If files are too large, and you have an active WUSTL key you can request access to transfer via Globus
-   * https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe
+   * to get access to the Globus transfer application
    * you will shoud be prompted to get permision
    * if you have trouble,  consult with the present coordinators to determine other means of transfer
 8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
