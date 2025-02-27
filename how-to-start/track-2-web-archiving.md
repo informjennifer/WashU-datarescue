@@ -40,12 +40,12 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 🗂️**Workflow:**&#x20;
 * You'll need three tabs or windows open: 
-    * Navigate to WashU's Data Tracker at https://wustl.box.com/s/qwnaoqn3em9fh6erp0k53m7wrqe1efo8 - Find the Web Archiving Tracker tab on the spreadsheet.
+    * Navigate to WashU's Data Tracker at https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing - No login is necessary - Find the Web Archiving Tracker tab on the spreadsheet.
     * Navigate to https://www.usa.gov/agency-index
     * Navigate to End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/
 * On the usa.gov site, choose a letter A-Z; at this point, you may choose randomly. Go through the agencies starting with that letter, one by one.
 * Copy the URL of a website for an agency. Go to the End of Term Nomination Tool (EoT) and search for the agency's website.
-* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker Box spreadsheet. 
+* The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker spreadsheet. 
   1. NO - If it isn't in the EoT archive already:
       * Continue to fill out the nomination form as best you can with information from the usa.gov website. Submit, and know that you just saved a website!
       * ALSO, fill out WashU's data tracker.
