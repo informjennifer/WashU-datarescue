@@ -60,7 +60,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 5. Update the Required Metadata Section in the Dataset Archiving tab of the tracker with the information you found in the previous steps.
 6. If applicable, update the Optional Metadata section in the Dataset Archiving Tracker tab if there is any information available to input.
 7. Confirm that the required and optional metadata for this dataset is complete in the tracker.
-8. Move on to task 3.3 (Organize & Package Data for Long-Term Storage).
+8. Move on to task 3.3 (Organize and package data for long-term storage).
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
