@@ -41,7 +41,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
 5.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.). Take and include with your files a screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. 
 6.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
-7.	Update the “Data Downloaded” column to “Y”. Proceed to Task 3.2("Adding Metadata") or coordinate with another Data Rescue participant to continue with your dataset.
+7.	Update the “Data Downloaded” column to “Y”. Proceed to Task 3.2 ("Add Metadata...") or coordinate with another Data Rescue participant to continue with your dataset.
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.&#x20;
 
@@ -57,8 +57,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 2. Go to the row applicable for your selected dataset.
 3. Click the URL listed for your dataset and navigate to the federal web page housing the data.
 4. Review the information on the webpage that describes the data.
-5. Update the Required Metadata Section in the Data Archiving tab of the tracker with the information you found in the previous steps.
-6. If applicable, update the Optional Metadata section in the Data Archiving Tracker tab if there is any information available to input.
+5. Update the Required Metadata Section in the Dataset Archiving tab of the tracker with the information you found in the previous steps.
+6. If applicable, update the Optional Metadata section in the Dataset Archiving Tracker tab if there is any information available to input.
 7. Confirm that the required and optional metadata for this dataset is complete in the tracker.
 8. Move on to task 3.3 (Organize & Package Data for Long-Term Storage).
 
