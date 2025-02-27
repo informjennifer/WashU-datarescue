@@ -27,7 +27,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 ### TASKS BREAKDOWN
 
-#### <mark style="background-color:purple;">1. Harvest Public Datasets Available Online</mark>
+#### <mark style="background-color:purple;">1. Harvest public datasets available online</mark>
 
 🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts). Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
 
@@ -45,7 +45,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets..&#x20;
 
-#### <mark style="background-color:purple;">2. Add Metadata to Harvested Datasets</mark>
+#### <mark style="background-color:purple;">2. Add metadata to harvested datasets</mark>
 
 🚁**Summary:** Adding metadata to rescued data is a crucial step in making the data findable for future use. Metadata is often described as data about data. This workflow will focus entirely on adding  information about the data we have saved thus far in our data rescue efforts. 
 
@@ -64,7 +64,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
-#### <mark style="background-color:purple;">3. Organize & Package Data for Long-Term Storage</mark>
+#### <mark style="background-color:purple;">3. Organize and package data for long-term storage</mark>
 
 🚁**Summary:** For long-term usability, data files should be organized logically and descriptively to enable future use without the barrier of figuring out what each file contains. For consistent ecological sustainability, large files or groups of files should be compressed to minimize the quantity to digital space and computational power they require to store. In preparation for the datasets’ transfer to secured third-party government data repositories, organize and package your downloaded data into an ideal format.
 
