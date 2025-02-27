@@ -1,6 +1,5 @@
 
-description READ ME FIRST! ⛵ And, if you would like an orientation to this website, WATCH ME FIRST! (5 minutes)
-<iframe src="https://drive.google.com/file/d/1XLukAe5XyI1kL_10BpdYCE_A7lNHPTjI/preview" width="640" height="480"></iframe>
+description: READ ME FIRST! ⛵ 
 
 
 # 🛟 Data Rescues 2025
