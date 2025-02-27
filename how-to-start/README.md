@@ -32,7 +32,7 @@ The following options can be considered a sort of “choose your own adventure�
 
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes.
 
-#### [Track 2  (Data Assessment)](track-2-data-assessment.md)
+#### [Track 2  (track-2-web-archiving.md)
 
 This track focuses on finding and evaluating valuable and relevant at-risk data. These tasks help others be able to complete more time intensive capturing tasks as they can use your “peer reviewed” assessment to prioritize data harvesting and preservation.
 
