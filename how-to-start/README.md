@@ -7,7 +7,7 @@ description: Step-by-step instructions
 
 Hello & welcome!
 
-For a video introduction to this Github site, click here (5 minutes) https://app.screencastify.com/v3/watch/dhSoj6c7tOPUrOGoPWnM
+For a video introduction to this Github site, click here (5 minutes) https://app.screencastify.com/v3/watch/dhSoj6c7tOPUrOGoPWnM. A transcript of the video is available [as a PDF document](https://wustl.box.com/s/py2s32rmrej7cfz8l3f5motn07y9sf0s).
 
 Thank you for volunteering your time for this year’s Data Rescue (2025)! We appreciate your energy, enthusiasm, or whatever other motivator brought you here. Now that you’ve read through the purpose, goals, and background of past and present Data Rescues, we can get you started on contributing.
 
