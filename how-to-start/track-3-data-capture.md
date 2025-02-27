@@ -73,12 +73,14 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 🗂️**Workflow**
 
 1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.)
-2.	Navigate to the top folder for the dataset. Right click and choose “Compress to…” then ZIP File. 
-3.	Navigate to your email and compose a message to researchdata@wustl.edu. Write “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
+2.	create folder in box. folder naming convention: datarescue_yourinitionals
+4.	Navigate to the top folder for the dataset. Right click and choose “Compress to…” then ZIP File. 
+5.	Dropped zipped file into: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti
+6.	If you cannot access the Box foder, send an email, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
        * If the ZIP file size is too large to send over email but below 2 GB, use [https://wetransfer.com/](https://wetransfer.com/)&#x20; to email the file.
        * If ZIP file is larger than 2 GB, consult with the present coordinators to determine other means of transfer. 
-5.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
-6.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
+7.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
+8.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
 🛠️**Skills Needed:** Basic understanding of file compression. Comfort applying principles of information organization and taxonomic structures.
