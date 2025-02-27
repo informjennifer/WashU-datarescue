@@ -43,7 +43,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 6.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
 7.	Update the “Data Downloaded” column to “Y”. Proceed to Task 3.2 ("Add Metadata...") or coordinate with another Data Rescue participant to continue with your dataset.
 
-🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.&#x20;
+🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets..&#x20;
 
 #### <mark style="background-color:purple;">2. Add Metadata to Harvested Datasets</mark>
 
