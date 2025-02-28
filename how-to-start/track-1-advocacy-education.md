@@ -83,7 +83,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 #### <mark style="background-color:purple;">4. Create promotional text/images</mark>
 
-🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning.&#x20;
+🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning. Please also feel free to tag WashU Libraries if you post your materials on social media.&#x20;
 
 💁**Role:** Promoter
 
@@ -95,6 +95,10 @@ This track focuses on creating, revising, and sharing information about at-risk 
    1. How can the public assess risks towards data?
    2. What happens when new administrations take over agencies and their data?
    3. Why should the public care about at-risk data?
-
+3. If you would like to make your promotional materials available for WashU Libraries to re-use, please follow the steps below to deposit them in box [link here](https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj).
+   1. Create folder in box. folder naming convention: datarescue_promotional_yourinitionals
+   2. Drop the files in box. Link: [https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj](https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj)
+   3. If you are unable to access box, email the materials to researchdata@wustl.edu with subject line "WashU Data Rescue [DATE] Promotional Materials."
+   
 🛠️ **Skills Needed:** Depending on the creation and software used, creative skills will vary. For visual creations, volunteers will need a beginner to intermediate graphic or art design skillset. For written creations, volunteers are asked to write in English first with translation as a secondary option.&#x20;
 
