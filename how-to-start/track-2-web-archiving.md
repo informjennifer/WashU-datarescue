@@ -40,11 +40,12 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
 
 🗂️**Workflow:**&#x20;
 * You'll need three tabs or windows open: 
-    * Navigate to WashU's Data Tracker at https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing - No login is necessary - Find the Web Archiving Tracker tab on the spreadsheet.
-    * Navigate to https://www.usa.gov/agency-index
-    * Navigate to End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/
-* On the usa.gov site, choose a letter A-Z; at this point, you may choose randomly. (See NOTE below for more on this.) Go through the agencies starting with that letter, one by one.
+    * DATA TRACKER: Navigate to WashU's Data Tracker at https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing - No login is necessary - Find the Web Archiving Tracker tab on the spreadsheet.
+    * LIST OF SITES: Navigate to https://www.usa.gov/agency-index
+    * SITE CHECKER: Navigate to End of Term Nomination Tool at https://digital2.library.unt.edu/nomination/eth2024/
+* On the LIST OF SITES, choose a letter A-Z; at this point, you may choose randomly. (Why random? Isn't that disorganized, and going to lead to duplication? See NOTE below for more on this.) Go through the agencies starting with that letter, one by one.
 * Copy the URL of a website for an agency. Go to the End of Term Nomination Tool (EoT) and search for the agency's website.
+   * COMMON QUESTION: If, for example, [epa.gov](https://www.epa.gov/) is already in the EoT archive, do I need to see if https://www.epa.gov/regulatory-information-topic, https://www.epa.gov/environmental-topics/air-topics, and so on, are in the EoT archive as well? Nope! The EoT archive should grab absolutely everything under https://www.epa.gov/
 * The Nomination Tool will tell you if the website has been archived already. Either way, you will note what you did in the WashU Data Tracker spreadsheet. 
   1. NO - If it isn't in the EoT archive already:
       * Continue to fill out the nomination form as best you can with information from the usa.gov website. Submit, and know that you just saved a website!
@@ -54,7 +55,7 @@ This track focuses on finding and evaluating valuable and at-risk websites. Util
      * Go to the WashU Data Tracker, navigate to the Web Archiving Tracker sheet, and enter agency, webpage name, URL, and mark Y to note that that URL is in the EoT already. 
 * If there's anything to report to a WashU data coordinator (something went awry; something was wonderfully successful), leave a note in the notes field on the WashU Data Tracker.
 
-<b>NOTE:</b> You may find that *many* URLs are already in the EoT archive. That's okay! So far, one-third of the URLs WashU has checked were not yet in the EoT archive. We're calling that success! Data Rescue on the national level is being actively coordinated right now, and we just don't have full coordination yet. We'll update you when we have better processes...
+<b>NOTE:</b> You may find that *many* URLs are already in the EoT archive. That's okay! So far, one-third of the URLs WashU has checked were not yet in the EoT archive. We're calling that success! Data Rescue on the national level is being actively coordinated right now, and we just don't have full coordination (and ability to avoid deduplication) yet. We'll update you when we have better processes...
 
 🛠️**Skills Needed:** Be able to browse through web pages, check if the site is in the End of Term archive or not, and then fill out a WashU Box spreadsheet detailing what you did. 
 
