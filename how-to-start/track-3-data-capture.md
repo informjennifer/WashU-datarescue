@@ -74,7 +74,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 🗂️**Workflow**
 
 1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.)
-2.	create folder in box. folder naming convention: datarescue_yourinitionals
+2.	create folder in box. folder naming convention: data_transfer_yourinitionals
 4.	Navigate to the top folder for the dataset. Right click and choose “Compress to…” then ZIP File. 
 5.	Drop the zipped file into: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti 
 6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
