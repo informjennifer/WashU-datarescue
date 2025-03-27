@@ -82,7 +82,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
    * for access, navigate to [Globus transfer application](https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe), where you will be prompted through steps to receive transfer permissions.
    * if you have trouble, consult with the present coordinators to determine other means of transfer.
 8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
-       * consult with the present coordinators to determine other means of transfer. 
+   * consult with the present coordinators to determine other means of transfer. 
 9.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
 10.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
