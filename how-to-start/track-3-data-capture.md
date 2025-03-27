@@ -37,7 +37,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 🗂️**Workflow**
 
 1.	Navigate to the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing) and read the information in the READ ME tab.
-2. Click the Data Archiving Tracker tab in the tracker.
+2. Click the Dataset Archiving Tracker tab in the tracker.
 3. Choose a dataset on this tab that has not yet been downloaded, indicated by an “N” in the column “Data Downloaded” within the “File Transfer Checklist” section. Update the column to IP for “in process” to indicate you are working on it. Add your name to the cell in the “Claimed by” column.
 4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
 5.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.). Take and include with your files a screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. 
@@ -56,8 +56,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 1. Navigate to the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing) and click on the Dataset Archiving Tracker tab.
 2. Go to the row applicable for your selected dataset.
-3. Click the URL listed for your dataset and navigate to the federal web page housing the data.
-4. Review the information on the webpage that describes the data.
+3. Click the URL listed for your dataset and navigate to the federal web page housing the dataset.
+4. Review the information on the webpage that describes the dataset.
 5. Update the Required Metadata Section in the Dataset Archiving tab of the tracker with the information you found in the previous steps.
 6. If applicable, update the Optional Metadata section in the Dataset Archiving Tracker tab if there is any information available to input.
 7. Confirm that the required and optional metadata for this dataset is complete in the tracker.
@@ -73,15 +73,15 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.)
-2.	Create a folder in box where you can put your transfer. The folder naming convention is: data_transfer_yourinitionals
+1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.).
+2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) where you can put your transfer. The folder naming convention is: data_transfer_yourinitionals
 4.	Navigate to the top folder for the dataset you saved. Right click and choose “Compress to…” then ZIP File. 
-5.	Drop the zipped file into the box folder you created in step 2: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti 
+5.	Drop the zipped file into the [Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) folder you created in step 2.
 6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
-7.	If files are too large, and you have an active WUSTL key you can request access to transfer via Globus
+7.	If files are too large, and you have an active WUSTL key you can request access to transfer via Globus:
    * to get access to the Globus transfer application
-   * you will shoud be prompted to get permision
-   * if you have trouble,  consult with the present coordinators to determine other means of transfer
+   * you will be prompted to get permission
+   * if you have trouble, consult with the present coordinators to determine other means of transfer
 8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
        * consult with the present coordinators to determine other means of transfer. 
 9.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
