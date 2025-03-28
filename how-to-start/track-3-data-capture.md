@@ -118,7 +118,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
   * If you have prior knowledge in the area of research data, any other relevant third-party public data repositories 
 4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing). Fill out as many of the fields identified in the red "Required Metadata" as possible, but at minimum provide the Agency, Title of Dataset, and URL.
 5.	In the "File Transfer Checklist", place an "N" in the "Data Downloaded" column. Place any relevant notes in the "Notes for WashU Data Rescue Coordinator" column.
-6.	If you choose to continue with the harvesting, description, and organization of the added dataset, proceed to compliete track 3, tasks 1-3. Otherwise continue investigation of previously identified agency website for more at-risk datasets.
+6.	If you choose to continue with the harvesting, description, and organization of the added dataset, proceed to track 3, task 1 (above) and complete tasks 1-3. Otherwise continue investigation of previously identified agency website for more at-risk datasets, returning to step 2 of this task.
 
 
 🛠️**Skills Needed:** Comfort conducting internet and social media research. Confidence searching repository catalogs. Desire to proactively leave "no stone unturned" in the ongoing protection of public federal datasets.
