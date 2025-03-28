@@ -98,24 +98,24 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 🗂️**Workflow**
 
 1.	Conduct brief research into the current state of federal agencies that are being targetted or are rumored to be targetted for depletions in workforce or budget. Research avenues include"published on social media: 
-  * Review recent statements published on social media made by federal government officials associated with the Department of Government Efficiency (DOGE)
-  * Search public messaging sites, (e.g., BlueSky, X (formerly Twitter), etc.), with keyword terms related to "data rescue" or "federal data" for any up-to-date advice on data rescue targets
-  * Skim reliable news outlets for any reports of data taken offline in recent days or updates on current DOGE efforts
-  * If finding an agency to investigate proves difficult, consult WashU Data Rescue coordinators to develop a research strategy
+   * Review recent statements published on social media made by federal government officials associated with the Department of Government Efficiency (DOGE)
+   * Search public messaging sites, (e.g., BlueSky, X (formerly Twitter), etc.), with keyword terms related to "data rescue" or "federal data" for any up-to-date advice on data rescue targets
+   * Skim reliable news outlets for any reports of data taken offline in recent days or updates on current DOGE efforts
+   * If finding an agency to investigate proves difficult, consult WashU Data Rescue coordinators to develop a research strategy
 2.	With an agency identified, navigate to the federal government website associated with that agency; start from [usa.gov's Agency Index](https://www.usa.gov/agency-index) to begin with the agency's homepage. Explore the website for any webpages that may house public datasets. Carefully consider hyperlinks to webpages containing words like:
-  * Data
-  * Reports
-  * Communications
-  * Finances
-  * Publications
-  * Research
-  * Policy
-  * Archive 
+   * Data
+   * Reports
+   * Communications
+   * Finances
+   * Publications
+   * Research
+   * Policy
+   * Archive 
 3.	Once you have identified a dataset, check the following to ensure it has not already been harvested:
-  * [DRP's Data Rescue Tracker](https://baserow.datarescueproject.org/public/grid/Nt_M6errAkVRIc3NZmdM8wcl74n9tFKaDLrr831kIn4)
-  * If environmental data, [EDGI's Federal Environmental Database Priority List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
-  * [ICPSR's DataLumos Archive](https://datalumos.org/)
-  * If you have prior knowledge in the area of research data, any other relevant third-party public data repositories 
+   * [DRP's Data Rescue Tracker](https://baserow.datarescueproject.org/public/grid/Nt_M6errAkVRIc3NZmdM8wcl74n9tFKaDLrr831kIn4)
+   * If environmental data, [EDGI's Federal Environmental Database Priority List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
+   * [ICPSR's DataLumos Archive](https://datalumos.org/)
+   * If you have prior knowledge in the area of research data, any other relevant third-party public data repositories 
 4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing). Fill out as many of the fields identified in the red "Required Metadata" as possible, but at minimum provide the Agency, Title of Dataset, and URL.
 5.	In the "File Transfer Checklist", place an "N" in the "Data Downloaded" column. Place any relevant notes in the "Notes for WashU Data Rescue Coordinator" column.
 6.	If you choose to continue with the harvesting, description, and organization of the added dataset, proceed to track 3, task 1 (above) and complete tasks 1-3. Otherwise continue investigation of previously identified agency website for more at-risk datasets, returning to step 2 of this task.
