@@ -102,7 +102,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
   * Search public messaging sites, (e.g., BlueSky, X (formerly Twitter), etc.), with keyword terms related to "data rescue" or "federal data" for any up-to-date advice on data rescue targets
   * Skim reliable news outlets for any reports of data taken offline in recent days or updates on current DOGE efforts
   * If finding an agency to investigate proves difficult, consult WashU Data Rescue coordinators to develop a research strategy
-2.	With an agency identified, navigate to the federal government website associated with that agency. Explore the website for any webpages that may house public datasets. Carefully consider hyperlinks to webpages containing words like:
+2.	With an agency identified, navigate to the federal government website associated with that agency; start from [usa.gov's Agency Index](https://www.usa.gov/agency-index) to begin with the agency's homepage. Explore the website for any webpages that may house public datasets. Carefully consider hyperlinks to webpages containing words like:
   * Data
   * Reports
   * Communications
