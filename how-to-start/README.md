@@ -34,7 +34,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 #### [Track 2 Web Archiving](track-2-web-archiving.md)
 
-This track focused on finding and evaluating valuable and relevant at-risk data. It's not currently offered, but may be again in the future.
+This track focused on nominating at-risk websites for capture to the End of Term Archive. It's not currently offered, but may be again in the future.
 
 #### [Track 3 (Data Capture)](track-3-data-capture.md)
 
