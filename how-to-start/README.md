@@ -34,7 +34,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 #### [Track 2 Web Archiving](track-2-web-archiving.md)
 
-This track focuses on finding and evaluating valuable and relevant at-risk data. These tasks help others be able to complete more time intensive capturing tasks as they can use your “peer reviewed” assessment to prioritize data harvesting and preservation.
+This track focused on finding and evaluating valuable and relevant at-risk data. It's not currently offered, but may be again in the future.
 
 #### [Track 3 (Data Capture)](track-3-data-capture.md)
 
