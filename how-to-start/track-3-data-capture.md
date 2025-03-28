@@ -91,7 +91,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 #### <mark style="background-color:purple;">4. Research and identify at-risk datasets</mark>
 
-🚁**Summary:** As the situation regarding the dismantling of federal agencies evolves, it is important the nation-wide data rescue movement continues to proactively identify datasets for preservation. Through a combination of research and exploration, data rescue volunteers add at-risk, publically accessible datasets to our local Dataset Archiving Tracker. Avoiding duplicative effort in data rescue is crucial to maximize the output of this volunteer movement, which makes double-checking the main repositories and national data rescue trackers an imperative step in this task.
+🚁**Summary:** As the situation regarding the dismantling of federal agencies evolves, it is important the nation-wide data rescue movement continues to proactively identify datasets for preservation. Through a combination of media research and webpage exploration, data rescue volunteers find at-risk, publically accessible datasets for our local Dataset Archiving Tracker. Avoiding duplicative effort in data rescue is crucial to maximize the output of this volunteer movement, which makes double-checking the main repositories and national data rescue trackers an imperative step in this task.
 
 💁**Role:** Dataset Investigator
 
