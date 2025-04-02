@@ -12,6 +12,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 1. Harvest public datasets
 2. Add metadata 
 3. Organize and package data for long-term storage
+4. Investigate and nominate at risk data
 
 **Tools Required (vary across tasks):**
 
