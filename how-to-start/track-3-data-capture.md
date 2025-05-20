@@ -1,7 +1,7 @@
 # 🕵️ Track 3 (Data Capture)
 
 
-This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time.
+This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time. The track has been adapted for asynchronous work, if you have any questions please submit your question to AskUs or email researchdata@wustl.edu.
 
 **Tech Skill Level:** Advanced
 
@@ -37,13 +37,17 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1.	Navigate to the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing) and read the information in the READ ME tab.
-2. Click the Dataset Archiving Tracker tab in the tracker.
-3. Choose a dataset on this tab that has not yet been downloaded, indicated by an “N” in the column “Data Downloaded” within the “File Transfer Checklist” section. Update the column to IP for “in process” to indicate you are working on it. Add your name to the cell in the “Claimed by” column.
-4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
-5.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.). Take and include with your files a screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. 
-6.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
-7.	Update the “Data Downloaded” column to “Y”. Proceed to Task 3.2 ("Add Metadata...") or coordinate with another Data Rescue participant to continue with your dataset.
+1.	Create a free Smartsheet account. [Get Started as a Free User with Smartsheet](https://help.smartsheet.com/learning-track/free-users/get-started-free-user)
+2. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1) 
+3. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by an blank in the column “Claimed By (email address).” 
+      * To Claim a dataset click the dropdown arrow for the row of your selected dataset, then click your            name.
+      * Claimed datasets will be highlighted in yellow.
+5. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
+6.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
+7.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.).
+8.	Take aa screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. Include the screenshot with the files you downloaded. 
+10.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
+11.	Update the “Data Downloaded” column to “Y”. Proceed to Workflow 2 ("Add Metadata..."). Please email researchdata@wustl.edu if you have any issues. 
 
 🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets..&#x20;
 
@@ -55,14 +59,12 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Navigate to the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing) and click on the Dataset Archiving Tracker tab.
+1. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1) 
 2. Go to the row applicable for your selected dataset.
 3. Click the URL listed for your dataset and navigate to the federal web page housing the dataset.
 4. Review the information on the webpage that describes the dataset.
-5. Update the Required Metadata Section in the Dataset Archiving tab of the tracker with the information you found in the previous steps.
-6. If applicable, update the Optional Metadata section in the Dataset Archiving Tracker tab if there is any information available to input.
-7. Confirm that the required and optional metadata for this dataset is complete in the tracker.
-8. Move on to task 3.3 (Organize and package data for long-term storage).
+5. Update as many of the columns as you can. 
+6. Move on to workflow 3 (Organize and package data for long-term storage).
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
