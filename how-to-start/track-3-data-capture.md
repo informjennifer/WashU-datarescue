@@ -1,7 +1,7 @@
 # 🕵️ Track 3 (Data Capture)
 
 
-This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time. The track has been adapted for asynchronous work, if you have any questions please submit your question to AskUs or email researchdata@wustl.edu.
+This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time. The track has been adapted for asynchronous work, if you have any questions please submit your question to [AskUs](https://libanswers.wustl.edu/ask) or email researchdata@wustl.edu.
 
 **Tech Skill Level:** Advanced
 
