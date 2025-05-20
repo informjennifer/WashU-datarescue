@@ -86,7 +86,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
   * if you have trouble, consult with the present coordinators to determine other means of transfer.
 8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
   * consult with the present coordinators to determine other means of transfer. 
-9.	In the File Transfer Checklist section of the [Dataset Archiving Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing), update the “Transferred to Coordinator?” column for your dataset to “Y”.
+9.	In the File Transfer Checklist section of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1), update the “Transferred to Coordinator?” column for your dataset to “Y”.
 10.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
@@ -119,7 +119,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
       * If environmental data, [EDGI's Federal Environmental Database Priority List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
       * [ICPSR's DataLumos Archive](https://datalumos.org/)
       * If you have prior knowledge in the area of research data, any other relevant third-party public data repositories 
-4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://docs.google.com/spreadsheets/d/13JTbYVAdSgRpwbQ6FZXFkTVqhmokv6g3tCCMbSSug4A/edit?usp=sharing). Fill out as many of the fields identified in the red "Required Metadata" as possible, but at minimum provide the Agency, Title of Dataset, and URL.
+4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1). Fill out as many of the fields identified in the red "Required Metadata" as possible, but at minimum provide the Agency, Title of Dataset, and URL.
 5.	In the "File Transfer Checklist", place an "N" in the "Data Downloaded" column. Place any relevant notes in the "Notes for WashU Data Rescue Coordinator" column.
 6.	If you choose to continue with the harvesting, description, and organization of the added dataset, proceed to track 3, task 1 (above) and complete tasks 1-3. Otherwise continue investigation of previously identified agency website for more at-risk datasets, returning to step 2 of this task.
 
