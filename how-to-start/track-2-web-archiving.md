@@ -56,7 +56,7 @@ The collections have robust metadata, meaning the sortable and customizable face
 
 ### 4. Archive Team: Help a team of web archivists with your computing power
 
-To quote the Archive Team itself, it is a " loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage." Entirely volunteer-run, Archive Team learns of at-risk websites and tries to save them. It's been in existence since 2009 and is independent of any particular web archive. If you can run a virtual machine, that's one way to help them:
+To quote the Archive Team itself, it is a "loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage." Entirely volunteer-run, Archive Team learns of at-risk websites and tries to save them. It's been in existence since 2009 and is independent of any particular web archive. If you can run a virtual machine, that's one way to help them:
 
 #### https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
 
