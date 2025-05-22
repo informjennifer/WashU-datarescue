@@ -25,7 +25,7 @@ You can save a single page (not a whole website) by going here:
    ![image](https://github.com/user-attachments/assets/55bd7d5e-e19c-4e62-89e8-34e9235eb5c6)
 
 Pop in a URL, hit Save Page, and you're done!
-Note the "Sign in to use extra features" section. If you're interested in those...read on
+Note the "Sign in to use extra features" section. If you're interested in those...read on.
 
 ### 3. Creating your own collection: Complex contributions to the Wayback Machine at archive.org
 
