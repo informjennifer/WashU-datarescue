@@ -40,7 +40,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 1.	Create a free Smartsheet account. [Get Started as a Free User with Smartsheet](https://help.smartsheet.com/learning-track/free-users/get-started-free-user)
 2. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1) 
 3. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by a blank in the column “Claimed By (email address).” 
-      * To Claim a dataset click the dropdown arrow for the row of your selected dataset, then click your            name.
+      * To Claim a dataset type in your email in the Claimed By coloumn.
       * Claimed datasets will be highlighted in yellow.
 5. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
 6.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
