@@ -63,8 +63,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 2. Go to the row applicable for your selected dataset.
 3. Click the URL listed for your dataset and navigate to the federal web page housing the dataset.
 4. Review the information on the webpage that describes the dataset.
-5. Update as many of the columns as you can. 
-6. Move on to workflow 3 (Organize and package data for long-term storage).
+5. Update as many of the columns as you can. However, not all of the columns will be applicable for each dataset. Columns like Data range or geographical coverage may not apply to the dataset.
+6. If you have any quesions submit them to [AskUs](https://libanswers.wustl.edu/ask) or email researchdata@wustl.edu.
+7. Move on to workflow 3 (Organize and package data for long-term storage).
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
@@ -80,13 +81,13 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) where you can put your transfer. The folder naming convention is: data_transfer_yourinitials
 4.	Navigate to the top folder for the dataset you saved. Right click and choose “Compress to…” then ZIP File. 
 5.	Drop the zipped file into the [Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) folder you created in step 2.
-6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue [DATE]” with the date in MM-DD-YYYY formatting. Attach the compressed ZIP file you created in step 2.
-7.	If files are too large, and you have an active WUSTL key you can request access to transfer via Globus:
+6.	If you cannot access the Box foder, send an email to researchdata@wustl.edu, subject line: “WashU Data Rescue Transfer [Date]” with the date in MM-DD-YYYY formatting.   Attach the compressed ZIP file you created in step 2 to the email.
+7.	If files are too large to put in box, and you have an active WUSTL key you can request access to transfer via Globus:
   * for access, navigate to [Globus transfer application](https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe), where you will be prompted through steps to receive transfer permissions.
-  * if you have trouble, consult with the present coordinators to determine other means of transfer.
-8. If files are too large (greater than 2gb), and you DO NOT have an active WUSTL key:
-  * consult with the present coordinators to determine other means of transfer. 
-9.	In the File Transfer Checklist section of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1), update the “Transferred to Coordinator?” column for your dataset to “Y”.
+  * if you have trouble, email researchdata@wustl.edu to determine other means of transfer.
+8. If files are too large for Box, and you DO NOT have an active WUSTL key:
+  * Email researchdata@wustl.edu to determine other means of transfer. 
+9.	In the “Transferred to Coordinator?” column of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1), update the  column for your dataset to “Y”.
 10.	After receiving confirmation that the file transfer was successful, delete the dataset from internal device storage.
 
 
@@ -119,8 +120,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
       * If environmental data, [EDGI's Federal Environmental Database Priority List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
       * [ICPSR's DataLumos Archive](https://datalumos.org/)
       * If you have prior knowledge in the area of research data, any other relevant third-party public data repositories 
-4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1). Fill out as many of the fields identified in the red "Required Metadata" as possible, but at minimum provide the Agency, Title of Dataset, and URL.
-5.	In the "File Transfer Checklist", place an "N" in the "Data Downloaded" column. Place any relevant notes in the "Notes for WashU Data Rescue Coordinator" column.
+4.	If dataset has not been found in any of the above data rescue efforts, add metadata about the dataset as a new line in the Dataset Archiving sheet of the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1). Fill out as many of the fields row as possible, but at minimum provide the Agency, Title of Dataset, and URL.
+5.	In the "Data Downloaded" column place an "N". Place any relevant notes in the "Final Notes" column.
 6.	If you choose to continue with the harvesting, description, and organization of the added dataset, proceed to track 3, task 1 (above) and complete tasks 1-3. Otherwise continue investigation of previously identified agency website for more at-risk datasets, returning to step 2 of this task.
 
 
