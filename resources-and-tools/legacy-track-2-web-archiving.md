@@ -1,7 +1,11 @@
-Track 2 is being sunsetted because it mostly consisted of nominating URLs to the End of Term web archive, which only accepts submissions for a short time after administrations change. 
+This is an old version of Track 2. It was sunsetted (taken down) because it mostly consisted of nominating URLs to the End of Term web archive, which only accepts submissions for a short time after administrations change. 
 Its content is here for posterity.
 
-This track focuses on finding and evaluating valuable and relevant at-risk data. These tasks help others be able to complete more time intensive capturing tasks as they can use your “peer reviewed” assessment to prioritize data harvesting and preservation.
+The previous task involved nominating websites to [End of Term Web Archive](https://eotarchive.org/). As of March 31, 2025, nominations there ended. From EoT: 
+
+"The reason for ending nominations for EOT is that we want to have a distinct dataset for research purposes. We've always done before inauguration/after inauguration snapshots for that purpose. EoT is in the process of writing a blog post announcing end of seed nominations and next steps. so be on the lookout for a post on EoT's [Bluesky account](https://bsky.app/profile/eotarchive.org)."
+
+
 
 # 🔍 Track 2 (Web Archiving)
 
