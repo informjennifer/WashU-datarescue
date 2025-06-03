@@ -15,14 +15,16 @@ Whether you are just now thinking about responding to current data risks and thr
 
 Now that you’ve reviewed the general expectations and background information, we ask all volunteers to following these steps to start:
 
-1. Read the [community agreements](../community-agreements.md) page.&#x20;
-2. Review track summaries (below) to pick a path.&#x20;
-3. Navigate to the track Gitbook page (see sidebar drop down or below links),&#x20;
-4. Pick 1 task on the ones listed on your select track to begin (some may require installing tools)
-5. Follow instructions for selected task under the "workflow" header to complete the task
-6. Work on your selected task (ask for clarification or help from Coordinators)
-7. REPEAT steps 2-6 if you want to take on another task (or go to the LAST STEP to say bye)👋🏼&#x20;
-8. Submit an exit ticket (summary of all your work) using this form [**link to Work Completion Status Form**]
+1. Submit an [anoynmous participation survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) 
+   indictating which track you are interested in. 
+2. Read the [community agreements](../community-agreements.md) page.&#x20;
+3. Review track summaries (below) to pick a path.&#x20;
+4. Navigate to the track Gitbook page (see sidebar drop down or below links),&#x20;
+5. Pick 1 task on the ones listed on your select track to begin (some may require installing tools)
+6. Follow instructions for selected task under the "workflow" header to complete the task
+7. Work on your selected task (ask for clarification or help from Coordinators)
+8. REPEAT steps 2-6 if you want to take on another task (or go to the LAST STEP to say bye)👋🏼&#x20;
+9. Submit an exit ticket (summary of all your work) using this form [**link to Work Completion Status Form**]
 
 ### Track List Options
 
