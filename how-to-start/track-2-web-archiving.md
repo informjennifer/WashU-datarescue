@@ -2,7 +2,7 @@
 
 This is the second version of Track 2, designed so that anyone can contribute to data rescue efforts using web archiving techniques on their own. Here, you can also learn how to do web archiving for your own personal use. Web archiving saves <i>websites</i>; if you'd rather help with saving <i>datasets</i>, visit Track 3. 
 
-Please complete this [anoynmous participatin survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
+Please complete this [anonymous participation survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
 
 ### In this track:
 
