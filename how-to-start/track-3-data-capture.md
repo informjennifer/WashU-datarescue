@@ -3,7 +3,7 @@
 
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time. The track has been adapted for asynchronous work, if you have any questions please submit your question to datarescue@wustl.libanswers.com.
 
-Please complete this [anoynmous participatin survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
+Please complete this [anonymous participation survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
 
 **Tech Skill Level:** Advanced
 
