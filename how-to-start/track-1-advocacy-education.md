@@ -1,6 +1,6 @@
 # 🎙️ Track 1 (Advocacy & Education)
 
-This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. Please complete this [anoynmous participatin survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
+This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. Please complete this [anonymous participation survey](https://wustl.az1.qualtrics.com/jfe/form/SV_2reEOCtWu6Niowm) before starting this track.
 
 **Tech Skill Level:** Beginner
 
