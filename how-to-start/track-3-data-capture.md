@@ -11,6 +11,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 **Tasks Include:**
 
+0. [LIMITED TIME RESCUE] Work RDAP to Save NCES Data - High Priority
 1. Harvest public datasets
 2. Add metadata 
 3. Organize and package data for long-term storage
@@ -30,6 +31,20 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 💁 _(information desk person)_ details participant role
 
 ### TASKS BREAKDOWN
+
+#### <mark style="background-color:purple;"> [LIMITED TIME RESCUE] Work with RDAP to Rescue data from NCES</mark>
+
+🚁**Summary:** The Research Data Access and Preservation(RDAP) Association is organizing data rescue efforts to capture data from the National Center for Education Statistics (NCES). Since 1867, NCES has been the federal statistical agency responsible for collecting, analyzing, and reporting data on the condition of U.S. education—from early childhood to adult education—to help improve student outcomes. The data in this workflow has been deemed as high priority and at risk for removal.
+
+💁**Role:** Data Collection Collaborator
+
+🗂️**Workflow**
+
+
+1. Navigate to the instructions created by RDAP: [RDAP Instructions](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1VWp6ZZSsYTG87j_3PaWV5df7S5cy3tyu2MW94gZLH3U%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cavianna%40wustl.edu%7Ce5c9085810bc4de0466908dd8f0bd15c%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C638824003129250179%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s%2B73JqEaoew1lnNWuU9BzfayyRhx74MJmjSbPj3imG4%3D&reserved=0) 
+2. If you have any questions about this workflow, please email datarescue@wustl.libanswers.com. 
+
+🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets.&#x20;
 
 #### <mark style="background-color:purple;">1. Harvest public datasets available online</mark>
 
@@ -51,7 +66,8 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 10.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
 11.	Update the “Data Downloaded” column to “Y”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com(datarescue@wustl.libanswers.com) if you have any issues. 
 
-🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets..&#x20;
+🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets.&#x20;
+
 
 #### <mark style="background-color:purple;">2. Add metadata to harvested datasets</mark>
 
@@ -79,13 +95,15 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 🗂️**Workflow**
 
-1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally important variables like years or geographic focus, etc.).
-2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) where you can put your transfer. The folder naming convention is: data_transfer_yourinitials
+1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally           important variables like years or geographic focus, etc.).
+2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) where you can put your transfer. The          folder naming convention is: data_transfer_yourinitials
 4.	Navigate to the top folder for the dataset you saved. Right click and choose “Compress to…” then ZIP File. 
 5.	Drop the zipped file into the [Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) folder you created in step 2.
-6.	If you cannot access the Box foder, send an email to datarescue@wustl.libanswers.com, subject line: “WashU Data Rescue Transfer [Date]” with the date in MM-DD-YYYY formatting.   Attach the compressed ZIP file you created in step 2 to the email.
+6.	If you cannot access the Box foder, send an email to datarescue@wustl.libanswers.com, subject line: “WashU Data Rescue Transfer [Date]” with the       date in MM-DD-YYYY formatting.
+   * If possible, attach the compressed ZIP file you created in step 2 to the email.
+   * If files are too large to be attached, add the title of the dataset, and file size information in your email. 
 7.	If files are too large to put in box, and you have an active WUSTL key you can request access to transfer via Globus:
-  * for access, navigate to [Globus transfer application](https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe), where you will be prompted through steps to receive transfer permissions.
+  * for access, navigate to [Globus transfer application](https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe), where     you will be prompted through steps to receive transfer permissions.
   * if you have trouble, email datarescue@wustl.libanswers.com to determine other means of transfer.
 8. If files are too large for Box, and you DO NOT have an active WUSTL key:
   * Email datarescue@wustl.libanswers.com to determine other means of transfer. 
