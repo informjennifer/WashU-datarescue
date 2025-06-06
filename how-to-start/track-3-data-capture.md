@@ -55,7 +55,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 🗂️**Workflow**
 
 1.	Create a free Smartsheet account. [Get Started as a Free User with Smartsheet](https://help.smartsheet.com/learning-track/free-users/get-started-free-user)
-2. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/sheets/h5xJW8m5v6xPX5w2qx8f2qqg7CW9xXr3r3qcQhq1) 
+2. Navigate to the [WashU Data Rescue Tracker](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.smartsheet.com%2Fb%2Fpublish%3FEQBCT%3De36fff078be14a2f826b0b804fd9d5f4&data=05%7C02%7Cavianna%40wustl.edu%7C2e5d4c33b9ee403abed008dda52a0610%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C638848322082456801%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yO8lzANExQAJ4fddSbi2tZGd%2BT%2B%2B64EDzmJp45DUYpQ%3D&reserved=0) 
 3. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by a blank in the column “Claimed By (email address).” 
       * To Claim a dataset type in your email in the Claimed By coloumn.
       * Claimed datasets will be highlighted in yellow.
