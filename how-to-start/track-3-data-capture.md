@@ -63,8 +63,8 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 6.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
 7.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.).
 8.	Take aa screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. Include the screenshot with the files you downloaded. 
-10.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
-11.	Update the “Data Downloaded” column to “Y”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com(datarescue@wustl.libanswers.com) if you have any issues. 
+9.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
+10.	Update the “Data Downloaded” column to “Y”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com](datarescue@wustl.libanswers.com) if you have any issues. 
 
 🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets.&#x20;
 
