@@ -54,17 +54,16 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 🗂️**Workflow**
 
-1.	Create a free Smartsheet account. [Get Started as a Free User with Smartsheet](https://help.smartsheet.com/learning-track/free-users/get-started-free-user)
-2. Navigate to the [WashU Data Rescue Tracker](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.smartsheet.com%2Fb%2Fpublish%3FEQBCT%3De36fff078be14a2f826b0b804fd9d5f4&data=05%7C02%7Cavianna%40wustl.edu%7C2e5d4c33b9ee403abed008dda52a0610%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C638848322082456801%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yO8lzANExQAJ4fddSbi2tZGd%2BT%2B%2B64EDzmJp45DUYpQ%3D&reserved=0) 
-3. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by a blank in the column “Claimed By (email address).” 
+1. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/b/publish?EQBCT=e36fff078be14a2f826b0b804fd9d5f4) 
+2. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by a blank in the column “Claimed By (email address).” 
       * To Claim a dataset type in your email in the Claimed By coloumn.
       * Claimed datasets will be highlighted in yellow.
-5. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
-6.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
-7.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.).
-8.	Take aa screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. Include the screenshot with the files you downloaded. 
-9.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “N” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Y”.
-10.	Update the “Data Downloaded” column to “Y”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com](datarescue@wustl.libanswers.com) if you have any issues. 
+3. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
+4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
+5.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.).
+7.	Take aa screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. Include the screenshot with the files you downloaded. 
+8.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “No” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Yes”.
+9.	Update the “Data Downloaded” column to “Yes”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com](datarescue@wustl.libanswers.com) if you have any issues. 
 
 🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets.&#x20;
 
