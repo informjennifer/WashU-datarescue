@@ -58,7 +58,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 1. Navigate to the [WashU Data Rescue Tracker](https://app.smartsheet.com/b/publish?EQBCT=e36fff078be14a2f826b0b804fd9d5f4) 
 2. Each row in the smartsheet corresponds to a dataset. Claim a dataset in the sheet that has not yet been Claimed, indicated by a blank in the column “Claimed By (email address).” 
-      * To Claim a dataset type in your email in the Claimed By coloumn nad press enter. The dropdown will only work for those who have already entered their email address. 
+      * To Claim a dataset type in your email in the Claimed By coloumn and press enter. The dropdown will only work for those who have already entered their email address. 
       * Claimed datasets will be highlighted in yellow.
 3. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
 4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
