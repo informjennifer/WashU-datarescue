@@ -20,7 +20,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 **Tools Required (vary across tasks):**
 
 * Spreadsheet editor (i.e., excel, google sheets)
-* Storage: https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti
+* Storage: [https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti](https://wustl.box.com/s/kenp427zu5to1kjkhkwsh3buhi8ifr2q)
   * Large file transfer (wustl key only): https://app.globus.org/file-manager/collections/6ebc17da-232a-4bec-97fb-eb6c03e8c1fe
 
 
@@ -97,9 +97,9 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 🗂️**Workflow**
 
 1.	Group files into nested folders with logical subdivisions (e.g., separating data files from documentation files, group data files by locally           important variables like years or geographic focus, etc.).
-2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) where you can put your transfer. The          folder naming convention is: data_transfer_yourinitials
+2.	Create a folder in the [WashU Data Rescue Box](https://wustl.box.com/s/kenp427zu5to1kjkhkwsh3buhi8ifr2q) where you can put your transfer. The          folder naming convention is: data_transfer_yourinitials
 4.	Navigate to the top folder for the dataset you saved. Right click and choose “Compress to…” then ZIP File. 
-5.	Drop the zipped file into the [Box](https://wustl.box.com/s/cjboayt41bi202zb3ddq44q5jgrmd2ti) folder you created in step 2.
+5.	Drop the zipped file into the [Box](https://wustl.box.com/s/kenp427zu5to1kjkhkwsh3buhi8ifr2q) folder you created in step 2.
 6.	If you cannot access the Box foder, send an email to datarescue@wustl.libanswers.com, subject line: “WashU Data Rescue Transfer [Date]” with the       date in MM-DD-YYYY formatting.
    * If possible, attach the compressed ZIP file you created in step 2 to the email.
    * If files are too large to be attached, add the title of the dataset, and file size information in your email. 
