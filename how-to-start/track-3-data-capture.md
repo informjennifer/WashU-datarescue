@@ -63,6 +63,8 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 3. Update the "Data Downloaded" column to “in process” to indicate you are working on it. 
 4.	Click on the provided URL and orient yourself to the structure of the landing page for the dataset.
 5.	Identify downloadable data files and documentation files. Verify that the files include adequate descriptive information, (e.g., READMEs, clear file names, data dictionaries, etc.).
+      * What is data documentation?
+          - Data documentation is any information that provides context for a dataset. Codebooks, data dictionaries, comments in code, and README files are examples of data documentation. [Addditional                    information about data documentation.](https://researchdata.wisc.edu/dmp-3-data-documentation/) 
 7.	Take a screenshot of the dataset's webpage to document provenance of the data for future users of the dataset. Include the screenshot with the files you downloaded. 
 8.	Capture dataset file(s) to internal device storage and place all files in a folder with an identifying name. If downloading the files for the dataset is difficult or impossible, update the “Dataset Download Possible?” column to “No” and leave a note about the difficulty in the “Notes” column. Otherwise, update “Dataset Download Possible?” column to “Yes”.
 9.	Update the “Data Downloaded” column to “Yes”. Proceed to Workflow 2 ("Add Metadata..."). Please email [datarescue@wustl.libanswers.com](datarescue@wustl.libanswers.com) if you have any issues. 
