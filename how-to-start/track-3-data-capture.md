@@ -11,7 +11,6 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 **Tasks Include:**
 
-0. [LIMITED TIME RESCUE] Work RDAP to Save NCES Data - High Priority
 1. Harvest public datasets
 2. Add metadata 
 3. Organize and package data for long-term storage
@@ -31,22 +30,6 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 💁 _(information desk person)_ details participant role
 
 ### TASKS BREAKDOWN
-
-#### <mark style="background-color:purple;"> [LIMITED TIME RESCUE] Work with RDAP to Rescue data from NCES</mark>
-
-🚁**Summary:** The Research Data Access and Preservation(RDAP) Association is organizing data rescue efforts to capture data from the National Center for Education Statistics (NCES). Since 1867, NCES has been the federal statistical agency responsible for collecting, analyzing, and reporting data on the condition of U.S. education—from early childhood to adult education—to help improve student outcomes. The data in this workflow has been deemed as high priority and at risk for removal.
-
-💁**Role:** Data Collection Collaborator
-
-🗂️**Workflow**
-
-
-1. Navigate to the instructions created by RDAP: [RDAP Instructions](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1VWp6ZZSsYTG87j_3PaWV5df7S5cy3tyu2MW94gZLH3U%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cavianna%40wustl.edu%7Ce5c9085810bc4de0466908dd8f0bd15c%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C638824003129250179%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s%2B73JqEaoew1lnNWuU9BzfayyRhx74MJmjSbPj3imG4%3D&reserved=0)
-2. Please note that each table number for the [RDAP tracker](https://docs.google.com/spreadsheets/d/19Q4Fus033NZrjAYG9RuSlAs3nimMq9UHUO4c_Eh_a28/edit?usp=sharing) has multiple datasets associated with said number. While there are 123 data table numbers, there are more than 123 datasets. 
-   * See Step 5 in the [RDAP Instructions](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1VWp6ZZSsYTG87j_3PaWV5df7S5cy3tyu2MW94gZLH3U%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cavianna%40wustl.edu%7Ce5c9085810bc4de0466908dd8f0bd15c%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C638824003129250179%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s%2B73JqEaoew1lnNWuU9BzfayyRhx74MJmjSbPj3imG4%3D&reserved=0) for further clarification.
-4. If you have any questions about this workflow, please email datarescue@wustl.libanswers.com. 
-
-🛠️**Skills Needed:** Intermediate understanding of metadata and different dataset types. Comfort with cataloging metadata for datasets.&#x20;
 
 #### <mark style="background-color:purple;">1. Harvest public datasets available online</mark>
 
