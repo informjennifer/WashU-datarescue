@@ -67,7 +67,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 2. Go to the row applicable for your selected dataset.
 3. Click the URL listed for your dataset and navigate to the federal web page housing the dataset.
 4. Review the information on the webpage that describes the dataset.
-5. Update as many of the columns as you can. However, not all of the columns will be applicable for each dataset. Columns like Data range or geographical coverage may not apply to the dataset.
+5. Update as many of the columns as you can. However, not all of the columns will be applicable for each dataset. Columns like Date range or geographical coverage may not apply to the dataset.
 6. If you have any quesions submit them to datarescue@wustl.libanswers.com.
 7. Move on to workflow 3 (Organize and package data for long-term storage).
 
