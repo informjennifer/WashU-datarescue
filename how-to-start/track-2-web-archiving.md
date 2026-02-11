@@ -6,7 +6,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 
 ### In this track:
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>1. Followup from initial Data Rescue web archiving <p>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>1. Follow-up from initial Data Rescue web archiving <p>
 &nbsp;&nbsp;&nbsp;&nbsp;2. Save Page Now: Simple contributions to the Wayback Machine at archive.org <p>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Creating your own collection: Complex contributions to the Wayback Machine at archive.org <p>
 &nbsp;&nbsp;&nbsp;&nbsp;4. Archive Team: Help a team of web archivists with your computing power<p>
