@@ -8,7 +8,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 **Tasks Include (highlighted below&#x20;**<mark style="background-color:yellow;">**in yellow**</mark>):
 
-1. Create and share your own stories about the impact that federal data.
+1. Create and share your own stories about the impact of federal data.
 2. Share data rescue promotional materials, news, or general takeaways with close friends, family, and peers
 3. Write letters to advocate for individual researchers to deposit their research data
 4. Contribute to group research on public records legislation
