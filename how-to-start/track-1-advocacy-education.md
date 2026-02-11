@@ -42,7 +42,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 2. Submit your own data stories to the America's Essential Data. Link: [https://essentialdata.us/](https://essentialdata.us/)
    1. To submit your data story, navigate to 'Add to the Collection.'
 
-🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of , storing and sharing digital files about research.&#x20;
+🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of storing and sharing digital files about research.&#x20;
 
 #### <mark style="background-color:purple;">2. Create promotional text/images</mark>
 
