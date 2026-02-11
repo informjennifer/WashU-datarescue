@@ -59,7 +59,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
    2. What happens when new administrations take over agencies and their data?
    3. Why should the public care about at-risk data?
 3. If you would like to make your promotional materials available for WashU Libraries to re-use, please follow the steps below to deposit them in box [link here](https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj).
-   1. Create folder in box. folder naming convention: datarescue_promotional_yourinitionals
+   1. Create folder in box. folder naming convention: datarescue_promotional_yourinitials
    2. Drop the files in box. Link: [https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj](https://wustl.box.com/s/9xrym5ad1sr5qgol8jgtcgxbu7fgvlfj)
    3. If you are unable to access box, email the materials to researchdata@wustl.edu with subject line "WashU Data Rescue [DATE] Promotional Materials."
    
