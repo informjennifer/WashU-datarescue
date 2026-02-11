@@ -13,7 +13,7 @@ Please complete this [anonymous participation survey](https://wustl.az1.qualtric
 &nbsp;&nbsp;&nbsp;&nbsp;5. ArchiveWeb.page and Conifer: Two great and easy-to-implement web archiving tools<p>
 &nbsp;&nbsp;&nbsp;&nbsp;6. Further reading and resources</b>
 
-### 1. Followup from initial Data Rescue web archiving
+### 1. Follow-up from initial Data Rescue web archiving
 At spring Data Rescue events at WashU, participants nominated URLs from a list of government websites at https://www.usa.gov/agency-index to the End of Term web archive at https://eotarchive.org/. Following that initiative, web archivists at Webrecorder created an additional, similar resource. Learn about that here: 
 Introducing GovArchive.us & Mirroring Entire Sites with Web Archives 
 https://webrecorder.net/blog/2025-03-25-govarchive-us-and-mirroring-sites-with-web-archives/
