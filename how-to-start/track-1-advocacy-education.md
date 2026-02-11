@@ -79,7 +79,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 4. Send/distribute outreach message to selected recipient.
 5. Repeat previous steps or share info about Open data with networks, friends, or family
 
-🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of , storing and sharing digital files about research.&#x20;
+🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of storing and sharing digital files about research.&#x20;
 
 #### <mark style="background-color:purple;">4. Research Team 1 (topic of public records protection, preservation and access)</mark>
 
